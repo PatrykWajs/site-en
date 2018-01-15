@@ -1,6 +1,6 @@
 ---
 ref: people
-title: "Προσωπικό"
+title: "People"
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 ref: groups
-title: "Εργαστήρια"
+title: "Laboratories"
 ---
 
 {% include collection-items.html collection='groups' %}

@@ -1,6 +1,6 @@
 ---
 ref: projects
-title: "Προγράμματα"
+title: "Projects"
 ---
 
 {% include collection-items.html collection='projects' %}
