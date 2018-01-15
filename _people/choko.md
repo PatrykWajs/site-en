@@ -1,14 +1,14 @@
 ---
 ref: choko
-title: "Κωνσταντίνος Χωριανόπουλος"
-excerpt: "Τεχνολογίες Λογισμικού"
+title: "Konstantinos Chorianopoulos"
+excerpt: "Software Technologies"
 rank: 3
 author: choko
 research:
- - "Κοινωνικά και Συνεργατικά Συστήματα"
+ - "Computer-Supported Collaborative Work"
 ---
 
 ### Education:
-  - "Δίπλωμα Ηλεκτρονικών Μηχανικών και Μηχανικών Υπολογιστών, Πολυτεχνείο Κρήτης"
-  - "Μεταπτυχιακό Μάρκετινγκ και Επικοινωνία με Νέες Τεχνολογίες, Τμήμα Μάρκετινγκ και Επικοινωνίας, Οικονομικό Πανεπιστήμιο Αθηνών"
-  - "Διδακτορικό Δίπλωμα, Επικοινωνία Ανθρώπου-Υπολογιστή για την Ψηφιακή Τηλεόραση, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών"
+  - "Diploma in Electronic and Computer Engineering, Technical University of Crete"
+  - "MSc. Marketing and Communication, Athens University of Economics and Business"
+  - "Ph.D. in Human-Computer Interaction for Digital Television, Athens University of Economics and Business"

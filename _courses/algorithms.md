@@ -1,20 +1,22 @@
 ---
 ref: algorithms
-title: "Αλγόριθμοι"
-author: andronikos
-excerpt: "Η έννοια του αλγορίθμου και της πολυπλοκότητας. Βασικές έννοιες της ανάλυσης αλγορίθμων. Μαθηματικό υπόβαθρο. Τεχνικές επίλυσης αναδρομικών εξισώσεων. Τεχνικές σχεδίασης αλγορίθμων. Η τεχνική «διαίρει και βασίλευε». Ο αλγόριθμος της συγχώνευσης. Ο αλγόριθμος της γρήγορης ταξινόμησης. Ελάχιστος χρόνος εκτέλεσης αλγορίθμων διάταξης. Πολλαπλασιασμός αριθμών και πινάκων. Η τεχνική του δυναμικού προγραμματισμού. Ιδιότητα βέλτιστων επιμέρους δομών. Το πρόβλημα του πολλαπλασιασμού ακολουθίας πινάκων. Το ακέραιο πρόβλημα του σακιδίου. Το πρόβλημα της διαμέρισης. Η άπληστη τεχνική. Δρομολόγηση εργασιών, απληστία και ρέστα, το κλασματικό πρόβλημα του σακιδίου. Θεωρία Γραφημάτων. Αναπαράσταση γραφημάτων, αλγόριθμοι εξερεύνησης γραφημάτων. Αναζήτηση πρώτα σε πλάτος, αναζήτηση πρώτα σε βάθος. Τοπολογική ταξινόμηση. Ελάχιστα επικαλύπτοντα δένδρα. Άπληστος υπολογισμός ελάχιστου επικαλύπτοντος δέντρου. Συντομότερα μονοπάτια. Συντομότερα μονοπάτια μοναδικής πηγής. Συντομότερα μονοπάτια για όλα τα ζεύγη κορυφών. Οπισθοδρόμηση. Διακλάδωση και Φράξιμο. Βασικοί αλγόριθμοι συμβολοσειρών. Εισαγωγή στη Θεωρία Υπολογιστικής Πολυπλοκότητας."
-uri: "https://e-class.ionio.gr/courses/DCS237/"
-code: ΗΥ020
+title: "Algorithms"
 semester: 4
-type: "Υποχρεωτικό"
+author: andronikos
+excerpt: "The notions of algorithm and complexity. Basic notions of algorithm analysis. Mathematical background. Techniques for solving recursive equations. Techniques for designing algorithms. The “Divide and Conquer” technique, the merge-sort algorithm and the quick-sort algorithm. Minimum execution time for sorting algorithms. Number and matrix multiplication. Dynamic programming technique. Optimal substructure property. The problem of multiplying sequences of matrices. Pure knapsack problem. The partition problem. Brute-force technique. Task routing, greed and change, the fractional knapsack problem. Graph Theory. Graph representation, graph-searching algorithms. Breadth-first search, Depth-first search. Topological sorting. Minimum spanning trees. Greedy calculation of the minimum spanning tree. Shortest paths. Single sourced shortest paths. Shortest paths for all the pairs of vertices. Regression. Branching and Bounding. Basic algorithms for strings. Introduction to the Theory of Computational Complexity"
+uri: "https://e-class.ionio.gr/courses/DCS237/"
+code: ΗΥ020 
+type: "Compulsory"
 hours: 4
-extra: 2Ε
+extra: 2S
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
-  - [““ΕΙΣΑΓΩΓΗ ΣΤΟΥΣ ΑΛΓΟΡΙΘΜΟΥΣ ΤΟΜΟΣ Ι”, CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-225-1, 2009"](https://service.eudoxus.gr/search/#a/id:59359780/0)
-  - ["“Αλγόριθμοι”, Rawlins Gregory J. E., Εκδόσεις Κριτική, ISBN 978-960-218-350-2, 2004"](https://service.eudoxus.gr/search/#a/id:11463/0)
+bibliography: 
+  - ““Introduction to Algorithms vol I”, CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., ITE Publications, ISBN 978-960-524-225-1, 2009 (in greek)"
+  - "“Algorithms”, Rawlins Gregory J. E., Kritiki Publications, ISBN 978-960-218-350-2, 2004 (in greek)"
+
   
-  
+
+

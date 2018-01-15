@@ -1,18 +1,17 @@
 ---
 ref: info-privacy-security-polices-enhancing-tech
-title: "Πολιτικές και Τεχνολογίες Ασφάλειας και Ιδιωτικότητας"
+title: "Information Privacy and Security Policies and Enhancing Technologies"
 semester: 5
 author: atsohou
-excerpt: "Εννοιολογικό υπόβαθρο: ιδιωτικότητα, ψευδωνυμία, ανωνυμία, μη-συνδεσιμότητα, μη-ανιχνευσιμότητα και μη-παρατηρησιμότητα, ασφάλεια πληροφοριών, ευπάθειες, απειλές, επικινδυνότητα. Ιδιωτικότητα κατά το σχεδιασμό (privacy by design). Ανάλυση και διαχείριση επικινδυνότητας: απαιτήσεις ασφάλειας πληροφοριακών συστημάτων, μεθοδολογίες ανάλυσης και διαχείρισης επικινδυνότητας (OCTAVE, CRAMM, SBA scenario). Πολιτικές και κανονισμοί ασφάλειας πληροφοριακών συστημάτων. Ανάλυση επικινδυνότητας ιδιωτικότητας. Ιδιωτικότητα στην κοινωνία της πληροφορίας (ηλεκτρονικό εμπόριο, ηλεκτρονική διακυβέρνηση, κοινωνικά δίκτυα). Συμπεριφορά χρηστών και προστασία ιδιωτικότητας: αντίληψη ιδιωτικότητας, πρόθεση αποκάλυψης πληροφοριών σε ηλεκτρονικά περιβάλλοντα, ιδιωτικότητα και αποδοχή πληροφοριακών συστημάτων. Πολιτικές προστασίας ιδιωτικότητας και συμμόρφωση με νομικό και κανονιστικό πλαίσιο. Προηγμένες Τεχνολογίες Προστασίας ανωνυμίας και Ιδιωτικότητας."
+excerpt: "Conceptual foundation: information privacy, anonymity, unlinkability, unobservability, information security, threats, vulnerabilities, risk. Privacy by Design. Information security risk assessment and management: information security requirements, risk analysis methods (OCTAVE, CRAMM, SBA scenario). Information Security Policies. Privacy risk analysis, Privacy in the Digital Era (e-commerce, e-government, social networks), users’  information privacy behaviors: privacy perception, intention to disclose personal information, privacy concerns, Information privacy policies, Personal data protection regulation, Privacy enhancing tools, Privacy awareness enhancing tools, Selected research topics."
 uri: "https://e-class.ionio.gr/courses/DCS265/"
 code: HY365
-type: "	Επιλογής"
+type: "Elective"
 hours: 4
-extra: "-"
+extra:
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - ["Προστασία της Ιδιωτικότητας και Τεχνολογίες Πληροφορικής και Επικοινωνιών: Τεχνικά και Νομικά Θέματα, Λαμπρινουδάκης Κ., Μήτρου Λ., Γκρίτζαλης Σ. και Κάτσικας Σ., Εκδόσεις Παπασωτηρίου, 2009"](https://service.eudoxus.gr/search/#a/id:9762/0)
-  - ["Κρυπτογραφία και ασφάλεια δικτύων – αρχες και εφαρμογες. William Stallings, ΙΩΝ 2012"](https://service.eudoxus.gr/search/#a/id:12777632/0)
+bibliography: 
+  - "Andreas Pfitzmann, Marit Hansen (2010)  A Terminology for talking about Privacy by data minimization: Anonymity, Unlinkability, Undetectability, Unobservability, Pseudonymity, and Identity Management, v0.34 (http://dud.inf.tu-dresden.de/Anon_Terminology.shtml )"

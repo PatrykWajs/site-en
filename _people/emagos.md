@@ -1,15 +1,14 @@
 ---
 ref: emagos
-title: "Εμμανουήλ Μάγκος"
-excerpt: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
+title: "Emmanouil Magos"
+excerpt: "Cryptography and Information Systems Security"
 rank: 2
 author: emagos
 research:
- - "Κρυπτογραφικές Τεχνικές στην Ασφάλεια Υπολογιστών και Δικτύων"
- - "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
- - "Ασφάλεια και Ιδιωτικότητα σε Κατανεμημένες Εφαρμογές"
+ - "Cryptographic techniques for computer and network security"
+ - "Security and Privacy in Internet applications"
 ---
 
 ### Education:
-  - "Πτυχίο Πληροφορικής, Πανεπιστήμιο Πειραιώς"
-  - "Διδακτορικό Δίπλωμα σε “Ασφαλή Ηλεκτρονικά Συστήματα Συναλλαγών μέσω Internet”, Πανεπιστήμιο Πειραιώς"
+  - "Diploma in Computer Science, University of Piraeus"
+  - "Ph.D. in Secure Electronic Transaction systems over the Internet, Computer Science Department, University of Piraeus"

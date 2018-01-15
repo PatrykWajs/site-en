@@ -1,7 +1,7 @@
 ---
 ref: paxinos
-title: "Γεώργιος Παξινός"
-bio: "Επίτιμος Διδάκτορας"
+title: "George Paxinos"
+bio: "Honorary Doctor"
 rank: 8
 author: paxinos
 tel: ""

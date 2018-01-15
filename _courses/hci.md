@@ -1,19 +1,19 @@
 ---
 ref: hci
-title: "Επικοινωνία Ανθρώπου-Υπολογιστή"
-semester: 3
+title: "Human-Computer Interaction"
 author: choko
-excerpt: "Ανάγκες χρήστη στο σχεδιασμό των user-interfaces. Ανθρωποκεντρική αποτίμηση και στρατηγικές σχεδιασμού και δοκιμής των user interfaces, τεχνικές αλληλεπίδρασης. Σχεδίαση, προγραμματισμός και πρότυπη διεπαφή. Τεχνικές και μέθοδοι αξιολόγησης των αποτελεσμάτων ως προς την ευχρηστία."
+excerpt: "User needs, human-centered design, and interaction design. Design and development of interactive prototypes. Methods and techniques for user evaluation."
+semester: 3
 uri: "http://e-class.ionio.gr/courses/DCS147/"
 code: 
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
+bibliography: 
   - “Επικοινωνία ανθρώπου – υπολογιστή, 3ή Έκδοση, Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007"
   - "Σχεδίαση διεπαφής χρήστη: Στρατηγικές για αποτελεσματική επικοινωνία ανθρώπου-υπολογιστή, ISBN: 9789604182565, Συγγραφέας: Ben Shneiderman, Catherine Plaisant, Εκδότης: Τζιόλα"
 

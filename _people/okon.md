@@ -1,16 +1,16 @@
 ---
 ref: okon
-title: "Κωνσταντίνος Οικονόμου"
-excerpt: "Δίκτυα Υπολογιστών"
+title: "Konstantinos Oikonomou"
+excerpt: "Computer Networks"
 rank: 2
 author: okon
 research:
- - "Αυτόνομα Δίκτυα"
- - "Ανάλυση Απόδοσης Δικτύων"
- - "Πρόσβαση Μέσου"
+  - "Autonomic Networks"
+  - "Network Performance Analysis"
+  - "Medium Access Control"
 ---
 
 ### Education:
-  - "Δίπλωμα Μηχανικού Ηλεκτρονικών Υπολογιστών και Πληροφορικής, Πανεπιστήμιο Πατρών"
-  - "Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc in Communication and Signal Processing from the Electrical and Electronic Engineering Department, Imperial College, London"
-  - "Διδακτορικό Δίπλωμα σε Πολιτικές Πρόσβασης Μέσου Ανεξάρτητες της Τοπολογίας σε Κατά Περίπτωση Δίκτυα, Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών."
+  - "Diploma in Computer Engineering and Informatics, University of Patras, Greece"
+  - "MSc in Communication and Signal Processing from the Electrical and Electronic Engineering Department, Imperial College, London"
+  - "Ph.D. in Topology-Unaware TDMA MAC Policies for Ad Hoc Networks, Informatics and Telecommunications Department, National and Kapodistrian University of Athens, Greece"

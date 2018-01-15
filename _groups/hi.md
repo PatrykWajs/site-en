@@ -1,10 +1,10 @@
 ---
 ref: hi
-title: "Εργαστήριο Εφαρμογών Πληροφορικής στις Ανθρωπιστικές – Κοινωνικές Επιστήμες (HILab)"
+title: "Humanistic and Social Informatics Lab (HILab)"
 header:
   teaser: /assets/images/default.png
   og_image: /assets/images/default.png
-excerpt: "Η Πληροφορική στις Ανθρωπιστικές και Κοινωνικές Επιστήμες εστιάζει αφ’ ενός στην εφαρμογή των ΤΠΕ στην εξαγωγή, αναπαράσταση και επεξεργασία ανθρωπιστικών και κοινωνικών δεδομένων, όπως αυτά προέρχονται από αντίστοιχες επιστήμες και τέχνες, όπως η Ψυχολογία, η Γλωσσολογία, η Ιστορία, η Αρχαιολογία, η Φιλοσοφία, η Ανθρωπολογία, η Κοινωνιολογία, η Μουσική, οι Καλές και οι Εφαρμοσμένες Τέχνες."
+excerpt: "Humanistic and Social Informatics Lab focuses on the one hand on the application of ICT to the extraction, representation and processing of humanistic and social data that is derived from the respective scientific and artistic areas, like Psychology, Linguistics, History, Archaeology, Philosophy, Anthropology, Social Studies, Music and Arts."
 uri: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
 members:
  - choko
@@ -12,6 +12,4 @@ members:
  - kerman
 ---
 
-Αφ’ ετέρου χρησιμοποιεί μεθοδολογίες των επιστημών αυτών για να προσδώσει στις υπηρεσίες και τα προϊόντα των νέων τεχνολογιών βέλτιστη ποιότητα και ανθρωποκεντρική διάσταση.
-
-Το Εργαστήριο Εφαρμογών Πληροφορικής στις Ανθρωπιστικές και Κοινωνικές Επιστήμες δραστηριοποιείται στην εκπαίδευση, την έρευνα και την ανάπτυξη στις περιοχές της Πολιτιστικής Πληροφορικής, της Μουσικής Πληροφορικής, της Ιστορικής Πληροφορικής, της Υπολογιστικής Γλωσσολογίας και της Επεξεργασίας Φυσικής Γλώσσας, του Ψυχαγωγικού Λογισμικού, των Πολυμέσων, της Εικονικής Πραγματικότητας, της Επεξεργασίας Εικόνας, των Εφαρμογών Νέων Τεχνολογιών στην Εκπαίδευση, της Αναπαράστασης και Διαχείρισης Γνώσης, των Συνεργατικών Συστημάτων, των Ψηφιακών Μέσων.
+On the other hand, it employs methodologies adapted from these scientific and artistic areas in order to supply ICT products and services with optimum quality and a human-centered perspective. The Humanistic and Social Informatics Laboratory interests lie within educational, research and development activities in the areas of Cultural Informatics, Music Informatics, History Informatics, Computational Linguistics, Game Software Design and Development, Multimedia, Virtual Reality, Image Processing, ICT in Education, Knowledge Representation and Management, Computer-supported Cooperative Systems, Digital Media.

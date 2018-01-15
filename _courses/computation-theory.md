@@ -1,20 +1,20 @@
 ---
 ref: itheorycomputaion
-title: "Θεωρία Υπλογισμού"
+title: "Introduction to the Theory of Computation"
 semester: 4
 author: andronikos
-excerpt: "Αλφάβητα και γλώσσες. Πεπερασμένα αυτόματα. Ιδιότητες των πεπερασμένων αυτομάτων και των γλωσσών που δέχονται. Κανονικές εκφράσεις και κανονικές γλώσσες. Ισοδυναμία πεπερασμένων αυτομάτων και κανονικών εκφράσεων. Λήμμα άντλησης για κανονικές γλώσσες. Γραμματικές και η ιεραρχία του Chomsky. Γραμματικές και γλώσσες χωρίς συμφραζόμενα. Αυτόματα στοίβας και λήμμα άντλησης για γλώσσες χωρίς συμφραζόμενα. Ισοδυναμία γραμματικών χωρίς συμφραζόμενα και αυτομάτων στοίβας. Η έννοια της υπολογισιμότητας. Mηχανές Turing. Aποφασίσιμες και απαριθμήσιμες γλώσσες. Η θέση των Church-Turing. Eπιλύσιμα και μη επιλύσιμα προβλήματα. Το πρόβλημα του τερματισμού (halting problem). Εισαγωγή στην υπολογιστική πολυπλοκότητα. Χρονική πολυπλοκότητα, η κλάση Ρ, η θέση των Cook-Karp. Αναγωγή και πληρότητα. Μη-ντετερμινισμός και NP-πληρότητα, σχέση Ρ και ΝΡ, αλγοριθμικές συνέπειες NP-πληρότητας. Πολυπλοκότητα χώρου, η κλάση PSPACE, το θεώρημα του Savitch. PSPACE-πλήρη προβλήματα."
+excerpt: "Alphabets and languages. Finite automata. Properties of finite automata and their accepting languages. Regular expressions and regular languages. Equivalence of finite automata and regular expressions. The pumping lemma for regular expressions. Grammars and the Chomsky hierarchy. Context-free languages. Pushdown automata and the pumping lemma for context-free languages. Equivalence of context-free grammars and pushdown automata. The notion of computability. Turing Machines. Decidable and enumerable languages. Church-Turing thesis. Solvable and non-solvable problems. The halting problem. Introduction to computational complexity. Time complexity, the P class, the Cook-Karp thesis. Reduction and completeness. Non-determinism and NP-completeness, P vs. NP. Space complexity, the PSPACE class and PSPACE-complete problems."
 uri: "https://e-class.ionio.gr/courses/NOC143/"
 code: ΗΥ025
-type: "Επιλογής"
+type: "Elective"
 hours: 4
 extra: 
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - [““ΕΙΣΑΓΩΓΗ ΣΤΗ ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ”, SIPSER MICHAEL, Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-243-5, 2009"](https://service.eudoxus.gr/search/#a/id:257/0)
-  - ["“Στοιχεία θεωρίας υπολογισμού”, Lewis Harry R., Παπαδημητρίου Χρίστος Χ., Εκδόσεις Κριτική, ISBN 978-960-218-397-7, 2005"](https://service.eudoxus.gr/search/#a/id:11776/0)
+bibliography: 
+  - ““Introduction to the Theory of Computation”, SIPSER MICHAEL, ITE Publications, ISBN 978-960-524-243-5, 2009 (in greek)"
+  - "“Elements of the Theory of Computation”Lewis Harry R., Papadimitriou Christos., Kritiki Publications, ISBN 978-960-218-397-7, 2005 (in greek)"
   
 

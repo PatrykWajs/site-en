@@ -1,26 +1,24 @@
 ---
 ref: research
-title: "Ερευνητικά Πεδία"
-excerpt: "Eκτός του εκπαιδευτικού έργου, ένας από τους βασικούς τομείς δραστηριότητας  του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου είναι και η ανάπτυξη ερευνητικής δράσης.
+title: "Research Areas"
+excerpt: "The Department of Informatics of the Ionian University is engaged in leading research that spans the theoretical and applied. The department’s research activities are orientated towards the development of novel applications in the research areas of Information Systems and Humanistic Informatics.
 
-Ειδικότερα, η δράση του Τμήματος Πληροφορικής προσανατολίζεται στην ανάπτυξη καινοτόμων εφαρμογών στα ερευνητικά πεδία των Πληροφοριακών Συστημάτων και των Ανθρωπιστικών – Κοινωνικών Επιστημών.
+As such, our research is organized around the following thematic areas:
 
-Τα πεδία του τρέχοντος επιστημονικού ενδιαφέροντος του Τμήματος Πληροφορικής εστιάζονται στις παρακάτω θεματικές ενότητες:
-
-- Ασφάλεια  – Κρυπτογραφία
-- Συστήματα Βιομετρικής (Biometrics)
-- Συστήματα Προστασίας Πνευματικής Ιδιοκτησίας στο Internet
-- Κατανεμημένες Αρχιτεκτονικές Υπολογιστικών Συστημάτων Υψηλών Επιδόσεων
-- Ενσωματωμένα (embedded) Συστήματα Πραγματικού Χρόνου
-- Αρχιτεκτονικές Συστημάτων Αυξημένης Υπολογιστικής Παρουσίας
-- Ανάπτυξη Υπολογιστικών Εφαρμογών για Μη-Τοπικά, Μη-Γραμμικά Δυναμικά Συστήματα
-- Επεξεργασία Σήματος
-- Ανάπτυξη Υπολογιστικών Εφαρμογών για Τυχαία Συστήματα
-- Ανάπτυξη Υπολογιστικών Εφαρμογών για Βιολογικά συστήματα
-- Υπολογιστικά Πλέγματα
-- Τεχνητή Νοημοσύνη – Γενετικοί Αλγόριθμοι
-- Ασύρματα δίκτυα υπολογιστών, ad hoc και mesh δίκτυα
-- Αυτόνομα δίκτυα, θέματα απόδοσης και κλιμάκωσης
-- Κβαντικός και Μη Συμβατικός Υπολογισμός"
+- Security-Cryptography
+- Biometrics
+- Internet copyright protection systems
+- Distributed Architecture of high performance computer systems
+- Real time embedded systems
+- Architecture of Systems with Advanced Computational Power
+- Development of computational applications for non-local, non-linear dynamic systems
+- Signal Processing
+- Development of computational applications for random systems
+- Development of computational applications for bio-systems
+- Computational grids
+- Artificial Intelligence – Genetic Algorithms
+- Wireless computer networks, ad hoc and mesh networks
+- Autonomous networks, performance analysis and scalability issues
+- Quantum and Unconventional Computing"
 
 ---

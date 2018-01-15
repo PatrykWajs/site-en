@@ -1,18 +1,18 @@
 ---
 ref: karydis
-title: "Ιωάννης Καρύδης"
-bio: "Προσωρινός Διδάσκων 407/80 Τμήματος Πληροφορικής"
+title: "Ioannis Karydis"
+bio: "Temporary Lecturer 407/80 Department of Informatics"
 rank: 6
 author: karydis
 tel: ""
 email: "	karydis@ionio.gr "
-uri:  "https://users.ionio.gr/~karydis/index.el.html"
-cv: "https://users.ionio.gr/~karydis/make_pdf.php?lang=el"
+uri:  "https://users.ionio.gr/~karydis/index.html"
+cv: "https://users.ionio.gr/~karydis/make_pdf.php?lang=en"
 categories:
  - "HILab"
 research:
- - "Συστήματα Υποστήριξης Αποφάσεων"
- - "Επεξεργασία Ομιλίας και Ήχου"
+ - "Decision Support Systems"
+ - "Speech and Audio Processing"
 ---
 
 ### education:

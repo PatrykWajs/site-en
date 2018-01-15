@@ -1,6 +1,6 @@
 ---
 ref: posts
-title: "Ανακοινώσεις"
+title: "Posts"
 layout: archive
 ---
 

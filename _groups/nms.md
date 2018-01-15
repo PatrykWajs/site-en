@@ -1,10 +1,10 @@
 ---
 ref: nms
-title: "Εργαστήριο Δικτύων, Πολυμέσων και Ασφάλειας Συστημάτων (NMSLab)"
+title: "Networks, Multimedia and Security Systems Laboratory (NMSLab)"
 header:
   teaser: /assets/images/NMSlab.png
   og_image: /assets/images/NMSlab.png
-excerpt: "Το Εργαστήριο Δικτύων, Πολυμέσων και Ασφάλειας Συστημάτων (NMSLab) υποστηρίζει τις εκπαιδευτικές και ερευνητικές ανάγκες του Τμήματος Πληροφορικής, καθώς και άλλων Τμημάτων του Ιονίου Πανεπιστημίου, σχετικά με τις γνωστικές περιοχές δίκτυα υπολογιστών, πολυμέσα και ασφάλεια πληροφοριών."
+excerpt: "The Networks, Multimedia and Security Systems Laboratory (NMSLab) supports both educational and research needs of the Department of Informatics, as well as other departments of the Ionian University, related to computer networks, multimedia and security."
 uri: "http://nmslab.di.ionio.gr"
 members:
  - atsohou
@@ -13,28 +13,27 @@ members:
  - vchris
 ---
 
-Ο εκπαιδευτικός ρόλος του NMSLab είναι να υποστηρίζει τα μαθήματα του προπτυχιακού προγράμματος σπουδών που σχετίζονται με δίκτυα υπολογιστών, συστήματα πολυμέσων σχετικά με τον πολιτισμό, ασφάλεια υπολογιστών, κρυπτογραφία, ασφάλεια πληροφοριακών συστημάτων, πληροφοριακή ιδιωτικότητα, θεωρία πληροφοριών. Αναφορικά με μαθήματα μεταπτυχιακών προγραμμάτων σπουδών υποστηρίζει παρόμοια μαθήματα με έμφαση στην έρευνα, καινοτόμα ερευνητικά πεδία και προκλήσεις της γνωστικής περιοχής.
+The education role of NMSLab is to support courses in computer networks, multimedia systems with respect to cultural applications, computer security, cryptography, information systems security, distributed systems, information theory in the undergraduate level. In the postgraduate level, similar courses are given with a research flavor focusing on new issues and challenges in the area. Undergraduate and postgraduate theses are also supported as well as preparing any relevant educational material required (e.g., notes, presentations).
 
-Οι κύριες περιοχές έμφασης της έρευνας σχετικά με δίκτυα υπολογιστών είναι:
+The main focus of the computer networks research actions is on:
 
-- Ad-hoc δίκτυα
-- Ασύρματα δίκτυα αισθητήρων
-- Δίκτυα νεφοϋπολογιστικής
-- Κατανεμημένα και κινητά συστήματα
+- Ad-hoc networks
+-  Wireless sensor networks
+-  Cloud networking
+-  Distributed, mobile and context-aware computing
 
-Οι κύριες περιοχές σχετικά με έρευνα σε πολυμέσα αφορούν σε τρισδιάστατες αναπαραστάσεις και σχετικές τεχνικές που συλλαμβάνουν τις ιδιοσυγκρασίες που έχουν φυσικά και ανθρωπίνως κατασκευασμένα περιβάλλοντα για:
+The main focus of the multimedia research actions is on three dimensional (3D) modelling techniques to capture the idiosyncrasies of both human-made and natural environment for:
 
-- Διατήρηση πολιτισμικής και φυσικής κληρονομίας
-- Προώθηση τοπικής κουλτούρας
-- Ανάπτυξης εκπαιδευτικών εφαρμογών
-- Προαγωγή νέων τεχνολογιών εικονικού κόσμου
+- Preserving cultural and natural heritage,
+- Promoting local culture,
+- Developing educational applications,
+- Advancing new technologies in the area of virtual reality
 
-Στον τομέα της ασφάλειας συστημάτων η έρευνα επικεντρώνεται στη χρήση μέτρων ασφάλεαις (π.χ. κρυπτογραφικών τεχνικών) για την προστασία της 
-ασφάλειας πληροφοριών και της πληροφοριακής ιδιωτικότητας. Συγκεκριμένα:
+The main focus of the systems security research actions is on the use of cryptographic techniques for protecting security and privacy in distributed information environments. Specifically:
 
-- Ασφάλεια και ιδιωτικότητα σε οχηματικά δίκτυα
-- Εξόρυξη δεδομένων διατηρώντας την ιδιωτικότητα
-- Ασφάλεια και ιδιωτικότητα σε εφαρμογές βασισμένες στην τοποθεσία
-- Ανάλυση και διαχείριση επικινδυνότητας
-- Πολιτικές ασφάλειας
-- Ασφάλεια επικοινωνιών σε κατανεμημένα δίκτυα αισθητήρων
+- Security and Privacy in MANETs and VANETs,
+- Privacy-preserving Data Mining,
+- Security and Privacy in Location Based Services,
+- Information security risk assessment and management
+- Information security policies
+- Secure Communication in Distributed Sensor Networks

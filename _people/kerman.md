@@ -1,16 +1,16 @@
 ---
 ref: kerman
-title: "Κάτια Λήδα Κερμανίδου"
-excerpt: "Τεχνητή Νοημοσύνη με έμφαση στη Γλωσσική Τεχνολογία"
+title: "Katia Lida Kermanidis"
+excerpt: "Artificial Intelligence in Language Technology"
 rank: 3
 author: kerman
 research:
-  - "Μηχανική Μάθηση"
-  - "Επεξεργασία Φυσικής Γλώσσας"
-  - "Μοντελοποίηση Χρήστη"
-  - "Εφαρμογές Πληροφορικής στις Ανθρωπιστικές και Κοινωνικές Επιστήμες"
+ - "Machine Learning"
+ - "Natural Language Processing"
+ - "User Modeling"
+ - "Humanistic Informatics"
 ---
 
 ### Education:
-  - "Δίπλωμα Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών, Πανεπιστήμιο Πατρών"
-  - "Διδακτορικό Δίπλωμα με τίτλο διατριβής «Αυτόματη Μάθηση Συντακτικών Εξαρτήσεων και Ανάπτυξη Γραμματικών της Ελληνικής Γλώσσας», Τμήμα Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών, Πανεπιστήμιο Πατρών"
+  - "Diploma from the Electrical and Computer Engineering Department, University of Patras"
+  - "PhD in Automatic Learning of Syntactic Dependencies And grammar Development for Modern Greek, Electrical and Computer Engineering Department, University of Patras"

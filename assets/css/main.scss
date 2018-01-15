@@ -32,6 +32,11 @@
   }
 }
 
+.archive__author-avatar:hover{
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+
 table {
   margin-bottom: 1em;
   width: 100%;

@@ -1,20 +1,20 @@
 ---
 ref: simulation-modeling
-title: "Προσομοίωση και Μοντελοποίηση"
+title: "Simulation and Modelling"
 semester: 7
-author: 	vlamos
-excerpt: "Προσομοίωση και εξομοίωση. Δομή και κατασκευή μοντέλων προσομοίωσης. Παραγωγή τυχαίων αριθμών και τυχαίων μεταβλητών. Μηχανισμοί ροής χρόνου. Στοχαστικά μοντέλα αλληλεπιδραστικής προσομοίωσης. Προσομοίωση γεγονότων, προσομοίωση δραστηριοτήτων. Γλώσσες προσομοίωσης. Ανάπτυξη προγραμμάτων προσομοίωσης, εξειδικευμένες γλώσσες προσομοίωσης. Ανάλυση αποτελεσμάτων, επικύρωση και επαλήθευση των αποτελεσμάτων. Τεχνικές προσδιορισμού μαθηματικών μοντέλων από δεδομένα-μετρήσεις κρίσιμων μεγεθών του συστήματος/διαδικασίας. Μοντέλα δυναμικών συστημάτων, μοντελοποίηση ως μαύρο κουτί, αναδρομικοί αλγόριθμοι προσδιορισμού παραμέτρων του μοντέλου, αξιολόγηση μοντέλου, προεπεξεργασία δεδομένων, πρακτικά θέματα αναγνώρισης συστημάτων."
+author: vlamos
+excerpt: "Dynamical systems. Theoretical models and modeling strategies. Evolution in time and space. Scale effects and multi-scale modeling. Explicit models for computer science and natural hazards. Queueing Theory. Fundamental Concepts of Queueing. TheoryThe M/M/1 Queue. The powerfulness of Simulation. Simulation strategies. Effective simulation codes for explicit theoretical models.  Simulation of deterministic and stochastic dynamic systems. Analysis of simulation results and evaluation. "
 uri: "https://e-class.ionio.gr/courses/DCS156/"
 code: ΗΥ680
-type: "Κατεύθυνση Π.Σ."
+type: "Compulsory I.S."
 hours: 4
 extra: 2Ε
 ects: 5
 --- 
 
 
-Βιβλιογραφία: 
-  - ["“Προσομοίωση διακριτών συστημάτων”, Khoshnevis Behrokh, Εκδόσεις Δίαυλος, ISBN 978-960-531-031-8, 1999"](https://service.eudoxus.gr/search/#a/id:12203/0)
-  - ["“Προσομοίωση δικτύων υπολογιστών”, Πομπόρτσης Ανδρέας Σ., Τσουλφάς Ανέστης Γ., Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-8050-37-2, 2001"](https://service.eudoxus.gr/search/#a/id:18548952/0)
+bibliography: 
+  - "“Προσομοίωση διακριτών συστημάτων”, Khoshnevis Behrokh, Εκδόσεις Δίαυλος, ISBN 978-960-531-031-8, 1999"
+  - "“Προσομοίωση δικτύων υπολογιστών”, Πομπόρτσης Ανδρέας Σ., Τσουλφάς Ανέστης Γ., Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-8050-37-2, 2001"
   
 

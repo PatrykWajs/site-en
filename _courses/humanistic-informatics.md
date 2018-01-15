@@ -1,20 +1,18 @@
 ---
 ref: cah
-title: "Πληροφορική στις Ανθρωπιστικές Επιστήμες"
+title: "Computers and the Humanities"
 semester: 1
 author: kerman
-excerpt: "Κοινωνία της Πληροφορίας. Δεδομένα-Πληροφορία-Γνώση -Σοφία. Εισαγωγή στο Διαδίκτυο και τον Ιστό. Εικονικά περιβάλλοντα Πληροφόρησης. Εικονικά Περιβάλλοντα Μάθησης. Μάθηση από Απόσταση. Ηλεκτρονικό Επιχειρείν. Ηλεκτρονικό εμπόριο. Τηλε-Εργασία. Ηλεκτρονική Διακυβέρνηση. Ηλεκτρονική Δημοκρατία. Ηλεκτρονική Τραπεζική. Ηλεκτρονική Υγεία. Το Ψηφιακό Χάσμα."
+excerpt: "Information Society. Information Technology. Data-Information-Knowledge-Wisdom. The Internet. The World Wide Web. Virtual Information Environments. Virtual Learning Environments. E-Learning. E-Business. E-Commerce. Tele-Working. E-Government. E-Democracy. E-Banking. E-health. The Digital Divide."
 uri: "https://e-class.ionio.gr/courses/DCS113/"
 code: 
-type: "Υποχρεωτικό"
+type: "Compulsury"
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
-- ["ΤΕΧΝΟΛΟΓΙΕΣ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΑΣ & ΚΟΙΝΩΝΙΑ, Ιωάννης Σ. Κουμπούρος"](https://service.eudoxus.gr/search/#a/id:12996509/0)
- - ["Υπηρεσίες προστιθέμενης αξίας στο διαδίκτυο, Μήλιου Αμαλία Ν.,Πομπόρτσης Ανδρέας Σ."](https://service.eudoxus.gr/search/#a/id:18548907/0)
-  
-
+Bibliography: 
+  - "ΤΕΧΝΟΛΟΓΙΕΣ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΑΣ & ΚΟΙΝΩΝΙΑ, Ιωάννης Σ. Κουμπούρος"[eudoxus link](https://service.eudoxus.gr/search/#a/id:12996509/0)
+  - "Υπηρεσίες προστιθέμενης αξίας στο διαδίκτυο, Μήλιου Αμαλία Ν.,Πομπόρτσης Ανδρέας Σ."[eudoxus link](https://service.eudoxus.gr/search/#a/id:18548907/0)

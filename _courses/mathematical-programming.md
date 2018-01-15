@@ -1,18 +1,18 @@
 ---
 ref: mathematical-programming
-title: "Μαθηματικός Προγραμματισμός"
+title: "Mathematical Programming"
 semester: 5
 author: atsohou
-excerpt: "Μοντελοποίηση προβλημάτων βελτιστοποίησης. Μορφοποίηση προβλημάτων σε προβλήματα γραμμικού προγραμματισμού. Γραφική επίλυση προβλημάτων γραμμικού προγραμματισμού. Η μέθοδος simplex – περιθώριες μεταβλητές, βασική εφικτή λύση, τεχνητές μεταβλητές και συνθήκες αριστότητας. Αλγόριθμος simplex – μέθοδος των πινάκων. Η μέθοδος των δύο φάσεων. Η μέθοδος του μεγάλου Μ. Η θεωρία της μεθόδου simplex. Η αναθεωρημένη μέθοδος simplex. Δυική θεωρία, αντιστοιχίες μεταξύ δυικών προβλημάτων, οικονομική ερμηνεία του δυϊκού προβλήματος. Ο δυϊκός αλγόριθμος simplex. Ανάλυση ευαισθησίας, μεταβολές στους συντελεστές της αντικειμενικής συνάρτησης και στους σταθερούς όρους των περιορισμών. Παραμετρικός προγραμματισμός. Ακέραιος προγραμματισμός, η μέθοδος των επίπεδων τόμων, η μέθοδος κλάδου και ορίου, το πρόβλημα μεταφοράς, το πρόβλημα αντιστοίχησης. Μη γραμμικός προγραμματισμός. Αναγκαίες και ικανές συνθήκες αριστότητας Karush-Kuhn-Tucker. Αλγόριθμοι μη γραμμικού προγραμματισμού χωρίς περιορισμούς. Η μέθοδος της πιο απότομης κλίσης, μέθοδος Newton, μέθοδοι σχεδόν-Newton και μέθοδοι συζυγών κλίσεων."
+excerpt: "Formulation of linear programming models: objective function, constraints, standard maximization and minimization problems. Feasibility, unboundness, multiple optimal solutions. Solution with graphical representation. Simplex algorithm and method: slack variables, optimality conditions, artificial variables. Simplex algorithm in matrix form. The two-phase simplex method. The big-M method. Duality, the Duality Theorem, financial interpretation of the Dual. The Dual simplex method. Sensitivity Analysis, changes on the values of the objective function and the Right Hand Side values. Integer linear programming, production planning, transportation problems."
 uri: "https://e-class.ionio.gr/courses/DCS266/"
 code: ΗΥ140
-type: "Κατεύθυνση Π.Σ."
+type: "Specialisation I.S."
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  - ["Γραμμικός Προγραμματισμός», Γ. Σίσκος, 2000, ΕΚΔΟΣΕΙΣ ΝΕΩΝ ΤΕΧΝΟΛΟΓΙΩΝ"](https://service.eudoxus.gr/search/#a/id:2599/0)
-  - ["Γραμμικός Προγραμματισμός», Δημήτρης Δεσπότης, 2011, ΕΚΔΟΣΕΙΣ ΔΕΣΠΟΤΗΣ ΔΗΜΗΤΡΙΟΣ"](https://service.eudoxus.gr/search/#a/id:12266748/0)
+Bibliography: 
+  - "Ferguson S.T., Linear Programming: A Concise Introduction, University of California (UCLA)
+  (http://www.math.ucla.edu/~tom/LP.pdf)"

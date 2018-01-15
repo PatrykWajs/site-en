@@ -1,7 +1,7 @@
 ---
 ref: giannakis
-title: "Κωνσταντίνος Γιαννάκης"
-bio: "Απόφοιτος Διδάκτορας"
+title: "Konstantinos Giannakis"
+bio: "Graduate Doctor"
 rank: 7
 author: giannakis
 tel: ""

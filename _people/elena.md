@@ -1,6 +1,6 @@
 ---
 ref: elena
-title: "Έλενα Λάσκαρι"
-bio: "Προϊσταμένη Γραμματείας"
+title: "Elena Laskari"
+bio: "Head of Secretariat"
 author: elena
 ---

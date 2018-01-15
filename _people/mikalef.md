@@ -1,7 +1,7 @@
 ---
 ref: mikalef
-title: "Πάτρικ Μικάλεφ"
-bio: "Απόφοιτος Διδάκτορας"
+title: "Patrick Mikalef"
+bio: "Graduate Doctor"
 rank: 7
 author: mikalef
 tel: ""

@@ -1,21 +1,21 @@
 ---
 ref: sioutas
-title: "Σπύρος Σιούτας"
-excerpt: "Δομές και Βάσεις Δεδομένων"
+title: "Spyros Sioutas"
+excerpt: "Data Structures & Databases"
 rank: 2
 author: sioutas
 research:
- - "Δομές Δεδομένων και Αλγόριθμοι"
- - "Υπολογιστική Γεωμετρία και Χωρικές Βάσεις Δεδομένων"
- - "Χώρο-Χρονικές και Πολυμεσικές Βάσεις Δεδομένων"
- - "Κατανεμημένες Δομές Δεδομένων και P2P Συστήματα"
- - "Διαχείριση Μεγάλου Όγκου Δεδομένων σε Συστήματα Υπολογιστικού Νέφους (Cloud)"
- - "Αποθήκες Δεδομένων και Αλγόριθμοι Εξόρυξης Γνώσης"
- - "Χωρικές Δομές Δεδομένων και GIS"
-
+ - "Efficient I/O Algorithms & Data Structures"
+ - "Computational Geometry and Computer Graphics"
+ - "Spatio-Temporal and Multimedia Databases"
+ - "Distributed Data Structures and Peer-to-Peer Computing"
+ - "Parallel and Distributed Data Structures and Cloud Computing"
+ - "Knowledge Data Discovery (KDD)"
+ - "Data Mining Algorithms"
+ - "Spatial Data Structures and Geographical Information Systems"
 ---
 
 ### Education:
-  - "Δίπλωμα Μηχανικού Η/Υ & Πληροφορικής, Πανεπιστήμιο Πατρών"
-  - "Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc: «Τεχνικές εξάλειψης κατανεμημένης πολυπλοκότητας και εφαρμογή τους στη σχεδίαση persistent δομών δεδομένων με χρήση στην υλοποίηση αντικειμενοστραφών γλωσσών προγραμματισμού», Τμήμα Μηχανικών Η/Υ & Πληροφορικής, Πολυτεχνική Σχολή, Πανεπιστήμιο Πατρών"
-  - "Διδακτορικό Δίπλωμα: «Αποτελεσματικοί αλγόριθμοι και βελτιωμένες τεχνικές αναζήτησης χωρικής, χρονικής και χώρο – χρονικής πληροφορίας», Τμήμα Μηχανικών Η/Υ & Πληροφορικής, Πολυτεχνική Σχολή, Πανεπιστήμιο Πατρών"
+  - "Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city of Patras: Network Connection with Database Servers located in the most popular Hotels and Transport Stations”."
+  - "Master Engineer of the Computer Engineering and Informatics Department (University of Patras).Master Thesis: “Eliminating Amortization. On Data Structures with Guaranteed Response Time”"
+  - "Doctor of Philosophy (PhD) on Computer Engineering and Informatics Department (University of Patras).PhD Thesis: “Efficient Algorithms and Robust Techniques for Spatial, Temporal and Spatio-Temporal Retrieval and Searching”"  

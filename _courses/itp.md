@@ -1,20 +1,20 @@
 ---
 ref: itp
-title: "Εισαγωγή στον Προγραμματισμό"
+title: "Introduction to Programming"
 semester: 1
-author: 	andronikos
-excerpt: "Σύντομη εισαγωγή στην πληροφορική και στους υπολογιστές. Η έννοια του αλγόριθμου ως πεπερασμένη ακολουθία βημάτων για τη λύση προβλημάτων και των γλωσσών προγραμματισμού ως αυστηρών μέσων έκφρασης αλγορίθμων. Η γλώσσα “C”, τα κύρια χαρακτηριστικά της και η διαδικασία μεταγλώττισης και εκτέλεσης προγραμμάτων. Η δομή του προγράμματος στη γλώσσα “C”, οι βασικές προγραμματιστικές εντολές και οι εντολές ελέγχου ροής του προγράμματος. Απλοί τύποι δεδομένων, ορισμός μεταβλητών, τελεστές και εκφράσεις. Πίνακες (μονοδιάστατοι και πολυδιάστατοι) και στοιχειώσεις δομές δεδομένων. Αφηρημένοι τύποι δεδομένων. Αναζήτηση και ταξινόμηση πινάκων. Απαριθμήσεις, δομές (structures), ενώσεις (unions). Δείκτες (pointers), σχέση μεταξύ δεικτών και πινάκων, συμβολοσειρών και δεικτών, μετατροπές τύπων. Δείκτες σε εγγραφές. Δυναμική παραχώρηση μνήμης. Γραμμικές λίστες, απλά συνδεδεμένες λίστες ουρές, στοίβες, διπλά συνδεδεμένες λίστες. Δέντρα και γράφοι, δυαδικά δέντρα αναζήτησης. Εργαστήριο προγραμματισμού (Επιλογή γλώσσας προγραμματισμού: “C”)."
+author: andronikos
+excerpt: "Short introduction to Informatics and Computer Science. The notion of algorithm as a finite sequence of instructions for the solution of problems and the notion of programming languages as a rigorous means of algorithm expression. The “C” language, its main characteristics, and the compilation and execution process of programs. The program structure in “C”, the basic programming commands and the flow control commands of the language. Simple data types, variable declaration, operators, and expressions. Arrays (of one or more dimensions), search and sorting in arrays. Elementary data structures, abstract data types, structures and unions. Pointers, relation between pointers and arrays, strings and pointers, type conversion, pointers to records, dynamic memory allocation. Linear lists, simply connected lists, queues, stacks, doubly connected lists. Trees and graphs, binary search trees. Programming Lab (Chosen language: “C”)."
 uri: "https://e-class.ionio.gr/courses/DCS157/"
 code: ΗΥ100
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
-  - ["C Προγραμματισμός”, 7η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ & ΣΙΑ ΕΕ, ISBN 978-960-512-6414, 2014"](https://service.eudoxus.gr/search/#a/id:41960258/0)
-  - ["C: Aπό τη Θεωρία στην Εφαρμογή”, 2η Έκδοση, Γ. Σ. Τσελίκης, Ν. Δ. Τσελίκας, Εκδότης ΝΙΚΟΛΑΟΣ ΤΣΕΛΙΚΑΣ, ISBN 978-960-93-1961-4, 2012"](https://service.eudoxus.gr/search/#a/id:59375636/0)
+bibliography: 
+  - "“C Προγραμματισμός”, 7η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ & ΣΙΑ ΕΕ, ISBN 978-960-512-6414, 2014 (in greek)"
+  - "C: Aπό τη Θεωρία στην Εφαρμογή”, 2η Έκδοση, Γ. Σ. Τσελίκης, Ν. Δ. Τσελίκας, Εκδότης ΝΙΚΟΛΑΟΣ ΤΣΕΛΙΚΑΣ, ISBN 978-960-93-1961-4, 2012 (in greek)"
   
 

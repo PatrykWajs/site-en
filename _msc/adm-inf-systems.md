@@ -1,14 +1,13 @@
 ---
 ref: adm-inf-systems
-title: "Διοικητική Πληροφοριακών Συστημάτων"
+title: "Administrative Information Systems"
 author: pkour
-excerpt: "Α. Αξιοποίηση της πληροφορικής από τους οργανισμούς: Σημασία της πληροφορικής στους σύγχρονους οργανισμούς. Στρατηγικός Σχεδιασμός Π.Σ.. Πληροφοριακά συστήματα και διαχείριση εφοδιαστικής αλυσίδας. Αναδιοργάνωση Επιχειρησιακών Διαδικασιών (BPR).
-Β. Υιοθέτηση σύγχρονων Πληροφοριακών Συστημάτων: Χρήση Πληροφοριακών Συστημάτων σε λειτουργικό, διοικητικό και στρατηγικό επίπεδο. Ηλεκτρονικό επιχειρείν και η διαδικτυακή επιχείρηση. Σύγχρονα μοντέλα αξιοποίησης πληροφοριακών πόρων.
-Γ. Ανάπτυξη και αξιολόγηση πληροφοριακών πόρων: Μέθοδοι ανάπτυξης Πληροφοριακών Συστημάτων. Παροχή υπηρεσιών πληροφορικής στους οργανισμούς. Αξιολόγηση επενδύσεων σε έργα πληροφορικής. Αξιολόγηση πληροφοριακών συστημάτων και πληροφοριακών πόρων."
+excerpt: "A. Exploitation of Information Technology by Organizations: Importance of Information Technology in Modern Organizations. Strategic Planning IT .. Information Systems and Supply Chain Management. Reorganization of Business Procedures (BPR).
+B. Adoption of Modern Information Systems: Use of Information Systems at operational, administrative and strategic level. E-business and online business. Modern models for the use of information resources.C. Development and Evaluation of Information Resources: Method of Development of Information Systems. Provision of IT services to organizations. Evaluation of investments in computer projects. Evaluation of information systems and information resources."
 semester: 1
 uri: "https://e-class.ionio.gr/courses/DCS202/"
 code: DCS202
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 3
 extra:
 ects: 6

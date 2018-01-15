@@ -1,20 +1,20 @@
 ---
 ref: information-systems-security-management
-title: "Διοίκηση Ασφάλειας Πληροφοριακών Συστημάτων"
+title: "Information Systems Security Management"
 author: emagos
-excerpt: "Μοντελοποίηση του μηχανισμού παραγωγής ομιλίας: Μηχανισμός παραγωγής ομιλίας, Ήχοι ομιλίας. Ψηφιακή προεπεξεργασία κειμένου ομιλίας: Επιλογή της συχνότητας δειγματοληψίας, Ψηφιοποίηση, Βραχύχρονη ανάλυση σήματος ομιλίας, Επιλογή μήκους πλαισίου, Προέμφαση, Επιλογή φίλτρου “παραθύρου”, Ρυθμός μετακίνησης πλαισίων. Ακουστικές παράμετροι: Εξαγωγή παραμέτρων, Ακουστικές πληροφορίες διάκρισης ομιλητών, Ενέργεια και μηδενικές διελεύσεις, Θεμελιώδης συχνότητα, Μέθοδοι υπολογισμού τονικότητας, Φασματογράφημα, Συντονισμοί φωνητικού καναλιού (FORMANTS), Συντελεστές γραμμικής πρόγνωσης (LPC), τράπεζα φίλτρων, συντελεστές ανάκλασης, Cepstral Συντελεστές. Βασικές Τεχνικές Επεξεργασίας ομιλίας. Κρυμμένα Μοντέλα Μarkov: Ορισμός και θεμελιώδεις αλγόριθμοι. Συστήματα αναγνώρισης/κατανόησης ομιλίας, Συστήματα Αναγνώρισης Ομιλητή. Σύνθεση ομιλίας. Ψηφιακές τεχνικές αφαίρεσης θορύβου."
+excerpt: "Conceptual foundation: assets, threats, vulnerabilities, risk, availability, integrity, confidentiality. Managing information security in the digital era. Information security governance frameworks for organizations: ISO 27001, COBIT and other security standards (ISO 27002, ISO 27005). Information security risk assessment and management: information security requirements, risk analysis methods (OCTAVE, CRAMM, SBA scenario). Information security countermeasures: security policies and regulations, access control and authentication policies, advanced authorization policies, network security policies. Users‘ compliance with information security policies: relevant research and non-compliance factors, social engineering, personal internet use at workplace, passwords‘ behavior. Business continuity management, IT disaster recovery planning. Personal data protection directives and regulation"
 uri: "https://e-class.ionio.gr/courses/DCS169/"
 code: ΗΥ360
 semester: 8
-type: "Κατεύθυνση Π.Σ."
+type: "Compulsory I.S"
 hours: 4
 extra:
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  - ["Διαχείριση Ασφάλειας Πληροφοριών, Σωκράτης Κάτσικας"](https://service.eudoxus.gr/search/#a/id:41958212/0)
-  - ["Ασφάλεια Πληροφοριακών Συστημάτων, Σωκτ. Κάτσικας - Δ. Γκρίτζαλης - Στεφ. Γκρίτζαλης"](https://service.eudoxus.gr/search/#a/id:2165/0)
+Bibliography: 
+  - "Διαχείριση Ασφάλειας Πληροφοριών, Σωκράτης Κάτσικας"[eudoxus link](https://service.eudoxus.gr/search/#a/id:41958212/0)
+  - "Ασφάλεια Πληροφοριακών Συστημάτων, Σωκτ. Κάτσικας - Δ. Γκρίτζαλης - Στεφ. Γκρίτζαλης"[eudoxus link](https://service.eudoxus.gr/search/#a/id:2165/0)
   
   

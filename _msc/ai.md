@@ -1,12 +1,12 @@
 ---
 ref: ai
-title: "Τεχνητή Νοημοσύνη"
+title: "Artificial Intelligence"
 semester: 1
-author: kerman  
-excerpt: "Εισαγωγή στην τεχνητή Νοημοσύνη. Μηχανική Μάθηση. Δεδομένα. Επιβλεπόμενη Μάθηση. Κατηγοριοποίηση. Μάθηση Βασισμένη στα Παραδείγματα. Δέντρα Αποφάσεων. Στοχαστική Μάθηση. Naive Bayes. Δίκτυα Bayes. Μη επιβλεπόμενη Μάθηση. Ομαδοποίηση. Μεταμάθηση. Αξιολόγηση Μάθησης. Deep learning. O πάγκος εργασίας Weka."
+author: kerman
+excerpt: "Introduction to AI. Machine Learning. Data. Supervised Learning. Classification. Example-based Learning. Decision trees. Statistical Learning. Unsupervised Learning. Clustering. Meta-learning. Evaluation. Deep learning. The Weka Machine Learning Workbench."
 uri: "https://e-class.ionio.gr/courses/DCS273/"
 code: DCS273
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 
 extra:
 ects: 6

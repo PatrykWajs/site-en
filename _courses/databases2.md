@@ -1,20 +1,20 @@
 ---
 ref: data2
-title: "Βάσεις Δεδομένων ΙΙ"
-semester: 5
+title: "Databases II"
 author: sioutas
-excerpt: "Προχωρημένα Θέματα SQL (PL SQL). Μοντελοποίηση αντικειμενοστρεφών και αντικειμενο-σχεσιακών βάσεων δεδομένων, μοντελοποίηση ημι-δομημένης πληροφορίας (η γλώσσα XML). Οργάνωση Αρχείων και Ευρετήρια (B-trees, B+ trees, Hashing, BitMap). Επεξεργασία και Βελτιστοποίηση Ερωτήσεων. Διαχείριση συναλλαγών (συγχρονισμός – ταυτοχρονισμός). Παράλληλες – Κατανεμημένες βάσεις δεδομένων (αρχιτεκτονική client-server, διασπορά – αντιγραφή – τοποθέτηση δεδομένων, μη παραδοσιακές βάσεις δεδομένων (χωρικές, χωροχρονικές, πολυμέσων), εισαγωγή στις αποθήκες δεδομένων και την εξόρυξη γνώσης από μεγάλες βάσεις δεδομένων."
+excerpt: "Advanced SQL – PL SQL. Object-oriented and object-relational systems. File storage and Indexing (B-trees, B+ trees, Hashing, BitMap). Query processing and optimization. Transaction management and concurrency control. Recovery techniques. Parallel and distributed DBMSs. Spatio-Temporal and Multimedia DBMSs. Advanced topics."
 uri: "https://e-class.ionio.gr/courses/NOC133/"
-code: ΗΥ301
-type: "Υποχρεωτικό"
+code: ΗΥ301 
+semester: 5
+type: "Compulsory"
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
+bibliography: 
   - ““Θεμελιώδεις αρχές συστημάτων βάσεων δεδομένων”, Elmasri Ramez,Navathe Shamkant B, Εκδόσεις Δίαυλος, ISBN 978-960-531-220-6, 2008"
-  - ["“Συστήματα Βάσεων Δεδομένων”, Ιωάννης Μανωλόπουλος – Απόστολος Ν. Παπαδόπουλος, Εκδόσεις Νέων Τεχνολογιών, ISBN 960-8105-87-0, 2006"](https://service.eudoxus.gr/search/#a/id:3488/0)
+  - "“Συστήματα Βάσεων Δεδομένων”, Ιωάννης Μανωλόπουλος – Απόστολος Ν. Παπαδόπουλος, Εκδόσεις Νέων Τεχνολογιών, ISBN 960-8105-87-0, 2006"
 
 

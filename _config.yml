@@ -9,14 +9,14 @@ remote_theme             : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
 
 # Site Settings
-locale                   : "gr"
-title                    : "Τμήμα Πληροφορικής"
+locale                   : "en"
+title                    : "Department of Informatics"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://ioniodi.github.io"
-baseurl                  : "/site-gr"
-repository               : "ioniodi/site-gr"
+baseurl                  : "/site-en"
+repository               : "ioniodi/site-en"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

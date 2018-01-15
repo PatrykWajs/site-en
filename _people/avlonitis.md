@@ -1,19 +1,18 @@
 ---
 ref: avlon
-title: "Μάρκος Αυλωνίτης"
-excerpt: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
+title: "Markos Avlonitis"
+excerpt: "Applied Stohastic Models"
 rank: 3
 author: avlon
-email: "avlon@ionio.gr"
-uri:  "http://www.ionio.gr/~avlon"
 cv: ""
 research:
- - "Εφαρμοσμένες στοχαστικές διεργασίες (επιστήμη υπολογιστών, μηχανική, περιβάλλον)"
- - "Συστήματα αυτοοργάνωσης"
- - "Εξάπλωση κακόβουλου λογισμικού"
- - "Μοντελοποίηση και προσομοίωση δικτύων μεγάλης κλίμακας"
+ - "Applied stochastic processes"
+ - "Self-organized systems"
+ - "Modeling the spread of computer malware"
+ - "Modeling and simulation of large scale networks"
 ---
 
 ### Education:
-  - "Πτυχίο Φυσικής, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Σχολή Θετικών Επιστημών"
-  - "Διδακτορικό Δίπλωμα στη Μηχανική, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Πολυτεχνική Σχολή"
+  - "Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)"
+  - "M.Sc. in Physics of Materials, Faculty of Engineering of Aristotle University of Thessaloniki (AUT)"
+  - "Ph.D. in Mechanics of Materials, Faculty of Engineering of Aristotle University of Thessaloniki (AUT)"

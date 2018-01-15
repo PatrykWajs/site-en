@@ -1,21 +1,21 @@
 ---
 ref: fmylonas
-title: "Φοίβος Μυλωνάς"
-excerpt: "Αναπαράσταση και Διαχείριση Γνώση"
+title: "Phivos Mylonas"
+excerpt: "Representation and Knowledge Management"
 rank: 3
 author: fmylonas
 research:
-  - "Υποβοηθούμενη από γνώση Ανάλυση Πολυμεσικού Περιεχομένου"
-  - "Ανάκτηση Πολυμεσικής Πληροφορίας"
-  - "Προσωποποίηση Πολυμεσικού Περιεχομένου"
-  - "Προσαρμογή Πολυμεσικού Περιεχομένου στο χρήστη"
-  - "Μοντελοποίηση χρηστών"
-  - "Εξαγωγή προφίλ χρηστών"
-  - "Αναπαράσταση και Ανάλυση οπτικού εννοιολογικού πλαισίου (visual context)"
-  - "Αλληλεπίδραση ανθρώπου-υπολογιστή"
+ - "Knowledge-assisted multimedia analysis"
+ - "Multimedia information retrieval"
+ - "Multimedia personalization"
+ - "User adaptation"
+ - "User modeling"
+ - "User profiling"
+ - "Visual context representation and analysis"
+ - "Human-computer interaction"
 ---
 
 ### Education:
-  - "Δίπλωμα Ηλεκτρολόγου Μηχανικού και  Μηχανικού Ηλεκτρονικών Υπολογιστών, Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών, Ε.Μ.Π., 2001"
-  - "Μεταπτυχιακό Δίπλωμα Ειδίκευσης (M. Sc.) σε Προηγμένα Πληροφοριακά Συστήματα, Ε.Κ.Π.Α., 2003"
-  - "Διδάκτωρ Μηχανικός, Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών, Ε.Μ.Π., 2008"
+  - "Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001"
+  - "Ph.D. in Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2008"
+  - "Master of Science in Advanced Information Systems, U.O.A., 2003"  

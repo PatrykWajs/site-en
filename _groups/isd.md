@@ -1,36 +1,38 @@
 ---
 ref: isd
-title: "Εργαστήριο Πληροφορικών Συστημάτων και Βάσεων Δεδομένων (ISDLab)"
+title: "Information Systems and Databases Laboratory (ISDLab)"
 header:
   teaser: /assets/images/ISDLab.png
   og_image: /assets/images/ISDlab.png
-excerpt: "Το Εργαστήριο Πληροφορικών Συστημάτων και Βάσεων Δεδομένων (ISDLab) ιδρύθηκε τον Δεκέμβριο 2015, παρόλο που λειτουργούσε ήδη ατύπως από τον Σεπτέμβριο 2011 με τον διακριτικό τίτλο DBISLab με συμμετοχή μελών του σε Επιστημονικά Συνέδρια αλλά και πολλές δημοσιεύσεις."
+excerpt: "The ISD-Lab of our department supports both educational and research needs of the Department of Informatics, as well as other departments of the Ionian University, related to information systems and databases."
 uri: "http://isdlab.di.ionio.gr"
 members:
  - dtsouma
  - sioutas
 ---
 
-Οι επιστημονικές περιοχές που το εργαστήριο κυρίως καλύπτει αφορούν στις ακόλουθες:
+The main focus of the Information Systems research actions is on:
 
-- ανάλυση και σχεδιασμό πληροφοριακών συστημάτων,
-- αξιολόγηση καινοτόμων εφαρμογών πληροφορικής,
-- ηλεκτρονικό εμπόριο και ηλεκτρονικό επιχειρείν,
-- ηλεκτρονική διακυβέρνηση, συστήματα βάσεων δεδομένων,
-- συστήματα data warehousing και datamining,
-- συστήματα data stream management,
-- συστήματα διαχείρισης μεγάλου όγκου δεδομένων,
-- διαχείριση δεδομένων στον παγκόσμιο ιστό,
-- συστήματα υπολογιστικού νέφους,
-- δίκτυο−κεντρικά πληροφοριακά συστήματα και συναφή επιστημονικά αντικείμενα.
+- Management Information Systems (MIS)
+- Strategic Decision Making
+- Business Intelligence
+- Decision Support Systems
+- Expert Systems
+- Executive Information Systems
+ 
 
-Το Εργαστήριο Πληροφορικών Συστημάτων και Βάσεων Δεδομένων (ISDLab) έχει στελεχωθεί από καθηγητές του Τμήματος Πληροφορικής  και λοιπό τεχνικό και επιστημονικό προσωπικό. Έχει ως αποστολή:
+The main focus of the Databases research actions is on:
 
-- Την κάλυψη σε προπτυχιακό και μεταπτυχιακό επίπεδο των διδακτικών και ερευνητικών αναγκών του Τμήματος Πληροφορικής καθώς και των άλλων τμημάτων του Ιονίου Πανεπιστημίου, σε θέματα που εμπίπτουν στα αντικείμενα δραστηριότητας του εργαστηρίου όπως αυτά προσδιορίζονται στο άρθρο 1 του ΦΕΚ Ίδρυσης του (ΦΕΚ Ίδρυσης: τ.Β Αρ. Φυλλου 2616 – 04.12.2015).
-- Την ανάπτυξη προγραμμάτων διδασκαλίας και τη διεξαγωγή βασικής και εφαρμοσμένης έρευνας.
-- Τη συνεργασία κάθε μορφής με κέντρα ερευνών και ακαδημαϊκά ιδρύματα ελληνικά και αλλοδαπά, εφόσον οι επιστημονικοί στόχοι, συμπίπτουν, συμβαδίζουν και αλληλοσυμπληρώνονται με εκείνους του εργαστηρίου.
-- Τη διοργάνωση επιστημονικών διαλέξεων, ημερίδων, σεμιναρίων, συμποσίων, συνεδρίων και άλλων επιστημονικών εκδηλώσεων, την πραγματοποίηση δημοσιεύσεων και εκδόσεων και την πρόσκληση Ελλήνων και ξένων αναγνωρισμένων επιστημόνων.
-- Την εκπόνηση επιστημονικών μελετών συναφών με το αντικείμενο του εργαστηρίου.
-- Την παροχή υπηρεσιών σε ιδιώτες και σε κάθε νομικής μορφής οργανισμούς κατά τα προβλεπόμενα στο Π.δ. 159/1984 (Α΄/53).
-
-Διευθυντής του Εργαστηρίου ορίστηκε ο Αν. Καθηγητής Σιούτας Σπυρίδων.
+- Data Structures in RAM and I/O model
+- Distributed Data Structures
+- P2P networks (indexing, caching, routing scheduling)
+- Spatio-Temporal and Multimedia Databases
+- Spatial Databases and GIS
+- Distributed and P2P Databases
+- Data Mining
+- Data Warehouses
+- Web Data Management
+- Web Information Retrieval
+- Cloud Data Management and Big Data Analytics
+- Music Databases
+- Steaming Data

@@ -1,10 +1,8 @@
 ---
 ref: intro
-title: "Εισαγωγή"
-excerpt: "Για το ακαδημαϊκό έτος 2015 – 2016 εισήχθησαν στο Τμήμα Πληροφορικής 200 φοιτητές/τριες με το σύστημα των Πανελληνίων Εξετάσεων από το δεύτερο ή το τέταρτο Επιστημονικό Πεδίο (Θετικής ή Τεχνολογικής κατεύθυνσης). Επίσης, στο Τμήμα μπορούν να εισαχθούν, σε ποσοστό 10% επί του αριθμού των εισακτέων, πτυχιούχοι άλλων τμημάτων ελληνικών Α.Ε.Ι. ή ισοτίμων ιδρυμάτων του εξωτερικού.
-Η φοίτηση στο Τμήμα Πληροφορικής διαρκεί οκτώ εξάμηνα, το καθένα από τα οποία περιλαμβάνει δεκατρείς εβδομάδες για διδασκαλία και τρεις εβδομάδες για εξετάσεις.
+title: "Admission"
+excerpt: "Approximately 100 students enter the Department of Informatics every year after taking the Panhellenic Admission Examinations. Also, 10% of the number of accepted students may consist of students who have graduated from other departments of Greek Universities or equivalent institutions abroad.
 
-Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου έχει ως αντικείμενο τόσο τη θεωρητική όσο και την εφηρμοσμένη Πληροφορική και προσφέρει συστηματική και υπεύθυνη πανεπιστημιακή διδασκαλία προκειμένου οι απόφοιτοί του να διαθέτουν την επιστημονική γνώση και τις τεχνικές ικανότητες για την περαιτέρω σταδιοδρομία τους."
+The duration of the studies in the Department of Informatics is 8 semesters, each of which lasts 16 weeks: 13 weeks of classes and 3 weeks of examinations."
 
 ---
-

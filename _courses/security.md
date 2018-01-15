@@ -1,24 +1,18 @@
 ---
 ref: security
-title: "Ασφάλεια υπολογιστών και προστασία δεδομένων"
-author: emagos
-excerpt: "Εισαγωγή στην Ασφάλεια: Βασικοί ορισμοί, Μοντέλο Απειλών, Υπηρεσίες Ασφάλειας. Εισαγωγή στις έννοιες: Απειλή, Ευπάθεια, Κίνδυνος. Ασφάλεια Συστήματος – Έλεγχος Λογικής Πρόσβασης – Τοπική και Απομακρυσμένη Αυθεντικοποίηση Οντότητας: Κωδικοί Passwords, Απομακρυσμένη Αυθεντικοποίηση με κρυπτογραφικές τεχνικές, Κωδικοί μιας χρήσης, Ταυτοποίηση με Μηδενική Γνώση. Έλεγχος Λογικής Πρόσβασης – Εξουσιοδότηση: Πολιτικές και μοντέλα εξουσιοδότησης (MAC, DAC, RBAC). Ασφάλεια Λειτουργικού Συστήματος. Κακόβουλο λογισμικό: Μοντέλο Απειλών, μηχανισμοί αντιμετώπισης, ερευνητικά θέματα. Αυθεντικοποιημένη εδραίωση κλειδιού και Εφαρμογές: Συστήματα Διανομής κλειδιού, Συστήματα Μεταφοράς Κλειδιού, Συστήματα Συμφωνίας Κλειδιού. Ασφάλεια Δικτύων: Μοντέλο απειλών στο Επίπεδο TCP/IP, ασφάλεια υπηρεσιών Διαδικτύου, ασφάλεια στο Web. Δικτυακά Συστήματα Firewalls."
-uri: "https://e-class.ionio.gr/courses/DCS132/"
-code: ΗΥ210
-code: 
+title: "Computer security and data protection"
 semester: 4
-type: "Υποχρεωτικό"
+author: emagos
+excerpt: "Introduction to Computer and Information Security: Definitions, Threats, Vulnerabilities, Risks. Logical Access Control: User AUthentication (Passwords, Challenge-Response, One-time Passwords). Access Control Policies, Authorization Models (MAC, DAC, RBAC), Operating System Security. Computer Malware: Viruses, Trojans, Worms, Bots and Botnets, Rootkits, Propagation Techniques. Internet and Web Security, TCP/IP Security, Cryptographic Techniques and Systems for Secure Communications, authenticated key establishments. Network Firewalls."
+code: ΗΥ210
+uri: "https://e-class.ionio.gr/courses/DCS132/"
+type: "Compulsory"
 hours: 4
-extra: 2Φ
+extra: 2L
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
-  - ["”Ασφάλεια Πληροφοριακών Συστημάτων” Κ. Κάτσικας, Δ. Γκρίτζαλης, Σ. Γκρίτζαλης. Νέων Τεχνολογιών, 2004."](https://service.eudoxus.gr/search/#a/id:2165/0)
-  - ["”Βασικές Αρχές Ασφάλειας Δικτύων” W. Stallings, M. Sipser. Κλειδάριθμος, 2009."](https://service.eudoxus.gr/search/#a/id:13618/0)
-  
-
-
-
-
+bibliography: 
+-"Gollmann, D. (2011). Computer Security, 3rd Edition. Wiley, New York."
+-"Anderson, R. (2008). Security engineering – A guide to building dependable distributed systems. John Wiley & Sons, New York."

@@ -1,19 +1,20 @@
 ---
 ref: information-systems-and-supply-management
-title: "Πληροφοριακά Συστήματα και Εφοδιαστική Αλυσίδα"
+title: "Information Systems and Supply Management"
 semester: 7
 author: pkour
-excerpt: "Πληροφοριακά Συστήματα (Π.Σ.) επιχειρήσεων- νέες τεχνολογίες στο μάνατζμεντ (πληροφοριακά συστήματα & διαδίκτυο, τηλε-εργασία, εικονική επιχείρηση – συνεργασία). Επιχειρηματικές διεργασίες, ανασχεδίαση επιχειρηματικών διεργασιών, ενοποίηση Π.Σ. επιχείρησης, διαχείριση και λειτουργία Π.Σ. Συστήματα Εφοδιασμού (Logistics) – Προσδιορισμός του ρόλου των πληροφοριακών συστημάτων Logistics στη σύγχρονη επιχείρηση. Περιγραφή βημάτων σχεδιασμού και ανάλυσης ενός πληροφοριακού συστήματος Logistics. Η υποστήριξη της λήψης αποφάσεων μάρκετινγκ με τη βοήθεια των συστημάτων πληροφορικής. Συστήματα συγκέντρωσης και διαχείρισης των πληροφοριών. Διαχείριση γνώσης και εξόρυξη δεδομένων. Γλώσσες τέταρτης γενεάς. Η χρήση αυτοματοποιημένων εργαλείων στην ανάπτυξη ενός πληροφοριακού συστήματος. Εισαγωγή στην ασφάλεια Π.Σ."
+excerpt: "Introduction to supply chain management. Downstream and upstream supply chain operations. Strategies for ICT-based supply chain management. Introduction to ERPs. Procurement and deployment strategies of ERP systems. Introduction to MRPs. ICT-based inventory management practices and strategies. Business process re-engineering for effective ICT-based supply chain management. RFID systems and supply chain management. "
 uri: "https://e-class.ionio.gr/courses/DCS226/"
 code: ΗΥ350
-type: "Κατεύθυνση Π.Σ."
+type: "Compulsory I.S."
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  -["Πληροφοριακά Συστήματα Διαχείρισης Επιχειρησιακών Πόρων:Στρατηγικές & Εφαρμογές, Γιάννης Πολλάλης, Αθανάσιος Βοζίκης"](https://service.eudoxus.gr/search/#a/id:2219/0)
+Βιβλιογραφία:
+
+  -"Πληροφοριακά Συστήματα Διαχείρισης Επιχειρησιακών Πόρων:Στρατηγικές & Εφαρμογές, Γιάννης Πολλάλης, Αθανάσιος Βοζίκης"[eudoxus link](https://service.eudoxus.gr/search/#a/id:2219/0)
   
-  -["ΣΥΓΧΡΟΝΑ ΕΠΙΧΕΙΡΗΣΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, ΚΩΝΣΤΑΝΤΙΝΟΣ Ι. ΣΤΕΦΑΝΟΥ, ΧΡΗΣΤΟΣ ΜΠΙΑΛΑΣ "](https://service.eudoxus.gr/search/#a/id:68404240/0)
+  -"ΣΥΓΧΡΟΝΑ ΕΠΙΧΕΙΡΗΣΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, ΚΩΝΣΤΑΝΤΙΝΟΣ Ι. ΣΤΕΦΑΝΟΥ, ΧΡΗΣΤΟΣ ΜΠΙΑΛΑΣ"[eudoxus link](https://service.eudoxus.gr/search/#a/id:68404240/0)

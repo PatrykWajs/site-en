@@ -1,6 +1,7 @@
 ---
 ref: location
-title: "Τοποθεσία"
-excerpt: "Το Τμήμα στεγάζεται στο κτήριο “Αρεταίος” στο κέντρο της Πόλης (Πλατεία Τσιριγώτη 7 (πρώην Πλατεία Παλιού Ψυχιατρείου)), το οποίο είναι άμεσα προσβάσιμο μέσω συγκοινωνιών. Tο αεροδρόμιο και το λιμάνι βρίσκονται σε απόσταση 5 λεπτών."
+title: "Location"
+excerpt: "The department is located in the building “Aretaios” in the center of the city (7 Tsirigoti Square, Corfu), which is directly accessible using public transportation. The airport and the port are within a 15 minute distance."
+
 ---
 

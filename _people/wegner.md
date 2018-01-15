@@ -1,7 +1,7 @@
 ---
 ref: wegner
 title: "Bernd Wegner"
-bio: "Επίτιμος Διδάκτορας"
+bio: "Honorary Doctor"
 rank: 8
 author: wegner
 tel: ""

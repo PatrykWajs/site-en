@@ -1,18 +1,17 @@
 ---
 ref: pateli
-title: "Αδαμαντία Πατέλη"
-excerpt: "Διοίκηση Πληροφοριακών Συστημάτων και Καινοτομίας"
+title: "Adamantia Pateli"
+excerpt: "Management of Information Systems and Innovation"
 rank: 3
 author: pateli
 research:
- - "Διοίκηση Πληροφοριακών Συστημάτων"
- - "Επιχειρηματικά Μοντέλα"
- - "Ψηφιακή Επιχειρηματικότητα"
- - "Ανοικτή Καινοτομία"
- - "Crowdsourcing"
+ - "Information Systems"
+ - "E-Business & E-Governement"
+ - "Mobile & Wireless Services"
+ - "Strategic Management of ICT"
 ---
 
 ### Education:
-  - "Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών"
+  - "Diploma in Informatics, Athens University of Economics and Business"
   - "ΜSc in Electronic Commerce, University of Manchester Institute of Science & Technology"
-  - "Διδακτορικό Δίπλωμα “Διακυβέρνηση Στρατηγικών Συμμαχιών σε Τεχνολογικά Στηριζόμενες Βιομηχανίες: Η Περίπτωση των Ασύρματων Υπηρεσιών”, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών"
+  - "PhD in “Governance of Strategic Alliances in Technology-based Industries: The Case of Wireless Services”, Department of Management Science and Technology, Athens University of Economics and Business"

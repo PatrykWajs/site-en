@@ -1,19 +1,18 @@
 ---
 ref: dss
-title: "Συστήματα Υποστήριξης Αποφάσεων"
+title: "Decision Support Systems"
 semester: 6
 author: karydis
-excerpt: "Εισαγωγή στη θεωρία Αποφάσεων, Η φιλοσοφία των Συστημάτων Υποστήριξης Αποφάσεων και ο ρόλος τους στις διαδικασίες λήψης αποφάσεων στην επιχείρηση, Αρχιτεκτονική Συστημάτων Υποστήριξης Αποφάσεων, Συστημάτων Υποστήριξης Αποφάσεων βασισμένα στη διαχείριση Βάσεων Δεδομένων και Συστημάτων Υποστήριξης Αποφάσεων βασισμένα στη διαχείριση Βάσεων Μοντέλων, Τεχνικές και Μοντέλα λήψης αποφάσεων: Δέντρα αποφάσεων, μαθηματικός προγραμματισμός, ανάλυση ευαισθησίας, what-if ανάλυση, ανάλυση βάσει στόχων. Πολυκριτηριακά Συστημάτων Υποστήριξης Αποφάσεων, Συστήματα υποστήριξης ομαδικής λήψης αποφάσεων (GDSS). Αξιοποίηση Αποθηκών Δεδομένων (Data Warehouses) και τεχνικών Εξόρυξης Δεδομένων (Data Mining) για την υποστήριξη της λήψης αποφάσεων, Συστήματα πληροφόρησης και υποστήριξης ανωτέρων στελεχών (EIS-ESS), Γεωγραφικά Πληροφοριακά Συστήματα (GIS). Βασισμένα στη γνώση (KMS) και Έμπειρα Συστήματα (ES), Εφαρμογές και παραδείγματα ΣΥΑ."
+excerpt:  "Introduction to decision theory, Decision support systems and their role in the decision making processes of organizations, Decision support systems architecture and components, data-driven and model-driven decision support systems, Decision support systems models: decision trees, mathematical programming, sensitivity analysis, what-if analysis, goal-seeking, group decision support systems, Data mining and Data warehouses for decision support, Executive Information systems, Geographical information systems, Knowledge management systems, Expert systems, Case studies and examples."
 uri: "https://opencourses.ionio.gr/courses/DDI125/"
 code: DDI125
-type: "Κατεύθυνση Π.Σ."
+type: "Specialisation I.S."
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  - [“Συστήματα υποστήριξης αποφάσεων”, Ματσατσίνης Ν., Εκδόσεις Νέων Τεχνολογιών, 2010, ISBN 978-960-6759-44-4 ](https://service.eudoxus.gr/search/#a/id:5014/0)
-  - [“Διοικητική επιστήμη”, Πραστάκος Γρηγόρης Π., Εκδόσεις Σταμούλη, ISBN 960-351-501-9, 2006](https://service.eudoxus.gr/search/#a/id:41955482/0)
-
+Bibliography: 
+  - “Συστήματα υποστήριξης αποφάσεων”, Ματσατσίνης Ν., Εκδόσεις Νέων Τεχνολογιών, 2010, ISBN 978-960-6759-44-4 [eudoxus link](https://service.eudoxus.gr/search/#a/id:5014/0)
+  - “Διοικητική επιστήμη”, Πραστάκος Γρηγόρης Π., Εκδόσεις Σταμούλη, ISBN 960-351-501-9, 2006 [eudoxus link](https://service.eudoxus.gr/search/#a/id:41955482/0)

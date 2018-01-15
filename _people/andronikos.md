@@ -1,16 +1,16 @@
 ---
 ref: andronikos
-title: "Θεόδωρος Ανδρόνικος"
-excerpt: "Διαδικτυακός Προγραμματισμός"
+title: "Theodore Andronikos"
+excerpt: "Internet Programming"
 rank: 3
 author: andronikos
 research:
- - "Διαδικτυακός προγραμματισμός"
- - "Δυναμικοί αλγόριθμοι για παράλληλα & κατανεμημένα ετερογενή συστήματα"
- - "Αλγόριθμοι ερωταποκρίσεων για διαδικτυακά δεδομένα (XML, XPath)"
- - "Χρονικές (Temporal) λογικές για αυτόματη επαλήθευση και σύνθεση συστημάτων"
+ - "Internet Programming"
+ - "Dynamic algorithms for parallel and distributed systems"
+ - "Query languages for the web (XML, XPath)"
+ - "Temporal logics for automated synthesis and verification of reactive systems"
 ---
 
 ### Education:
-  - "Δίπλωμα Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών με κατεύθυνση Πληροφορικής από τη Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Εθνικού Μετσόβιου Πολυτεχνείου"
-  - "Διδακτορικό Δίπλωμα Πληροφορικής από τη Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Εθνικού Μετσόβιου Πολυτεχνείου με τη θέμα την «Αυτόματη Παραλληλοποίηση Σειριακών Αλγορίθμων»"
+  - "Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens"
+  - "Ph.D. in “Automatic Parallelization of Sequential Algorithms”, School of Electrical and Computer Engineering, National technical University of Athens"

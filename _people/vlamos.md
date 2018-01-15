@@ -1,14 +1,15 @@
 ---
 ref: vlamos
-title: "Παναγιώτης Βλάμος "
-excerpt: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
+title: "Panagiotis Vlamos"
+excerpt: "Mathematics in Application Modelling"
 rank: 1
 author: vlamos
 research:
- - "Μαθηματικά μοντέλα με εφαρμογές σε προβλήματα τεχνικών αποκατάστασης εικόνας φυσικών επιστημών και χημικής μηχανικής"
- - "Μαθηματικά μοντέλα στην εκπαίδευση με χρήση νέων τεχνολογιών"
+  - "Mathematical modeling applied for image restoration purposes"
+  - "Mathematical modeling applied to physical and Chemical Engineering problems"
+  - "Mathematical modeling in Education with the use of new technologies"
 ---
 
 ### Education:
-  - "Πτυχίο Μαθηματικών, Πανεπιστήμιο Αθηνών"
-  - "Διδακτορικό Δίπλωμα στα Μαθηματικά, Τμήμα Εφαρμοσμένων Μαθηματικών και Φυσικών Επιστημών, Ε.Μ. Πολυτεχνείου."
+  - "Diploma in Mathematics, University of Athens"
+  - "Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens"

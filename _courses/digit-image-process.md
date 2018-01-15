@@ -1,18 +1,18 @@
 ---
 ref: digit-image-process
-title: "Ψηφιακή Επεξεργασία Εικόνας"
+title: "Digital Image Processing"
 semester: 5
 author: fmylonas
-excerpt: "Εισαγωγή στην Ψηφιακή Επεξεργασία Εικόνας. Αναπαράσταση Ψηφιακών Εικόνων. Στοιχεία ενός Συστήματος Ψηφιακής Επεξεργασίας Εικόνας. Ψηφιακή Καταγραφή Εικόνας. Τμηματοποίηση και Αυτόματη Ευθυγράμμιση εικόνας. Εξαγωγή Χαρακτηριστικών και Ανάλυση εικόνας. Ανίχνευση Γραμμών, Δομή, Σχήμα, Υφή, Ταίριασμα, Τεμάχιση, Κατάταξη. Συμπίεση ψηφιακής εικόνας. Αλγόριθμοι ανίχνευσης ακμών. Μεθοδολογίες σχεδίασης ψηφιακών φίλτρων. Bέλτιστα γραμμικά φίλτρα. Αυτοπροσαρμοζόμενα φίλτρα. Στοιχεία Ανθρώπινης Ορασης. Μοντέλα Εικόνων. Δειγματοληψία και Κβάντιση. Μετασχηματισμός Εικόνας: Μετασχηματισμός Fourier, DFT, FFT, Walsh, Hadamard, DCT, Hotelling, Hough. Βελτίωση εικόνας: Τροποποίηση Ιστογράμματος, Εξομάλυνση, Οξυνση. Αποκατάσταση Εικόνας: Μοντέλο Χειροτέρευσης, Αλγεβρική Μέθοδος, Αντίστροφο Φιλτράρισμα."
+excerpt: "Introduction to Digital Image Processing, Digital Image Representation, Digital Image Processing Systems, Digital Image Capture, Segmentation and Automatic Image Alignment, Feature Extraction and Image Analysis, Line Detection, Structure, Shape, Texture, Matching, Ranking, Digital Image Compression, Edge Detection Algorithms, Methodologies for the Design of Digital Filters, Optimal Linear Filters, Adaptive Filters, Human Vision Elements, Image Models, Sampling and Quantization, Image Transformation: Fourier Transform, DFT, FFT, Walsh, Hadamard, DCT, Hotelling, Hough, Picture Enhancement: Histogram Modification, Smoothing, Sharpening, Digital Image Restoring: Deterioration Model, Algebraic Method, Inverse Filtering."
 uri: "https://e-class.ionio.gr/courses/DCS150/"
 code: ΗΥ620
-type: "Επιλογής"
+type: "Elective"
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
+Bibliography: 
   - "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΑΣ”, ΙΩΑΝΝΗΣ ΠΗΤΑΣ, Εκδόσεις ΙΩΑΝΝΗΣ ΠΗΤΑΣ, 2010"
-  - ["Ψηφιακή Επεξεργασία και Ανάλυση Εικόνας”, Παπαμάρκος Νικόλαος, Αυτοέκδοση, ISBN 978-960-92731-3-8, 2010"](https://service.eudoxus.gr/search/#a/id:41954704/0)
+  - "Ψηφιακή Επεξεργασία και Ανάλυση Εικόνας”, Παπαμάρκος Νικόλαος, Αυτοέκδοση, ISBN 978-960-92731-3-8, 2010"

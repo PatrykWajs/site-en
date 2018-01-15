@@ -1,8 +1,10 @@
 ---
 ref: library
-title: "Βιβλιοθήκη"
-excerpt: "Η βιβλιοθήκη του τμήματος Πληροφορικής αποτελεί μέρος της κεντρικής βιβλιοθήκης του Ιονίου Πανεπιστημίου. Είναι πλήρως αυτοματοποιημένη και συνδεδεμένη με το πανεπιστημιακό δίκτυο. Σκοπός της είναι να ικανοποιήσει τις ακαδημαϊκές και ερευνητικές ανάγκες των φοιτητών, του διδακτικού και διοικητικού προσωπικού του τμήματος αλλά και της ευρύτερης πανεπιστημιακής κοινότητας του Ιονίου Πανεπιστημίου.
+title: Library 
+excerpt: "The library of the Department of Informatics is part of the Central Library the Ionian University. It is fully automated and connected to the university network. Its purpose is to satisfy the academic and research needs of students, teachers and administrative staff as well as the wider university community of the Ionian University. The library is open daily.
 
-Για περισσότερες πληροφορίες επισκεφτείτε τη διεύθυνση http://iup.ionio.gr/ στον δικτυακό τόπο της κεντρικής βιβλιοθήκης του Ιονίου Πανεπιστημίου."
+For more information visit http://iup.ionio.gr/ the website of the central library of the Ionian University."
+
 
 ---
+

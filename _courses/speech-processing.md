@@ -1,20 +1,20 @@
 ---
 ref: speech-processing
-title: "Επεξεργασία Ομιλίας και Ήχου"
+title: "Speech Processing"
 author: karydis
-excerpt: "Μοντελοποίηση του μηχανισμού παραγωγής ομιλίας: Μηχανισμός παραγωγής ομιλίας, Ήχοι ομιλίας. Ψηφιακή προεπεξεργασία κειμένου ομιλίας: Επιλογή της συχνότητας δειγματοληψίας, Ψηφιοποίηση, Βραχύχρονη ανάλυση σήματος ομιλίας, Επιλογή μήκους πλαισίου, Προέμφαση, Επιλογή φίλτρου “παραθύρου”, Ρυθμός μετακίνησης πλαισίων. Ακουστικές παράμετροι: Εξαγωγή παραμέτρων, Ακουστικές πληροφορίες διάκρισης ομιλητών, Ενέργεια και μηδενικές διελεύσεις, Θεμελιώδης συχνότητα, Μέθοδοι υπολογισμού τονικότητας, Φασματογράφημα, Συντονισμοί φωνητικού καναλιού (FORMANTS), Συντελεστές γραμμικής πρόγνωσης (LPC), τράπεζα φίλτρων, συντελεστές ανάκλασης, Cepstral Συντελεστές. Βασικές Τεχνικές Επεξεργασίας ομιλίας. Κρυμμένα Μοντέλα Μarkov: Ορισμός και θεμελιώδεις αλγόριθμοι. Συστήματα αναγνώρισης/κατανόησης ομιλίας, Συστήματα Αναγνώρισης Ομιλητή. Σύνθεση ομιλίας. Ψηφιακές τεχνικές αφαίρεσης θορύβου."
+excerpt: "Speech creation mechanism modeling: Speech creation mechanism, speech sounds. Digital speech preprocessing: Sampling rate, Digitisation, short term analysis, window size and rate of movement. Acoustic parameters: feature extraction, acoustic features for speaker differentiation, signal energy and zero crossing rate, fundamental frequency, FORMANTS, LPC, Cepstral coefficients. Speech to text systems. Speech synthesis. Noise removal methods. Music representation, musical feature extraction, legal issues of music information research, musical information retrieval and data mining."
 uri: "https://e-class.ionio.gr/courses/DCS161/"
 code: ΗΥ730
 semester: 8
-type: "Κατεύθυνση Α.Ε."
+type: "Compulsory H.I."
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  - ["Ψηφιακή επεξεργασία σήματος, Antoniou A."](https://service.eudoxus.gr/search/#a/id:18549117/0)
-  - ["Ψηφιακή Επεξεργασία Φωνής: Θεωρία και Εφαρμογές, Rabiner L."](https://service.eudoxus.gr/search/#a/id:13256964/0)
+Bibliography: 
+  - "Ψηφιακή επεξεργασία σήματος, Antoniou A."[eudoxus link](https://service.eudoxus.gr/search/#a/id:18549117/0)
+  - "Ψηφιακή Επεξεργασία Φωνής: Θεωρία και Εφαρμογές, Rabiner L."[eudoxus link](https://service.eudoxus.gr/search/#a/id:13256964/0)
   
   

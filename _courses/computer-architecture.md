@@ -1,19 +1,19 @@
 ---
 ref: computer-architecture
-title: "Αρχιτεκτονική Υπολογιστών"
-author: 	mistral
-excerpt: "Εισαγωγή στην αρχιτεκτονική υπολογιστών. Ψηφιακή Λογική: συνδυαστικά και ακολουθιακά λογικά κυκλώματα. Αρχιτεκτονικές συνόλου εντολών: τύποι εντολών, κύκλος μηχανής και εκτέλεση εντολών, αρχιτεκτονικές CISC και RISC. Κεντρική μονάδα επεξεργασίας (ΚΜΕ): δομή και αρχές λειτουργίας. Απόδοση ΚΜΕ και μετροπρογράμματα. Παραλληλισμός σε επίπεδο εντολών: ΚΜΕ πολλαπλών κύκλων εκτέλεσης εντολής και pipelining. Επεξεργαστές superscalar και VLIW. Τεχνολογίες κύριας μνήμης. Ιεραρχίες μνήμης και κρυφές μνήμες. Εικονική μνήμη, υποστήριξη από ΚΜΕ. Διασύνδεση Εισόδου-Εξόδου (Ε/Ε), δίαυλοι και ελεγκτές Ε/Ε, διακοπές και τεχνικές άμεσης προσπέλασης μνήμης (DMA)."
+title: "Computer Architecture"
+author: mistral
+excerpt: "Introduction to computer architecture. Digital logic, combinatorial and sequential logical circuits. Instruction set architectures. Instruction types, machine cycle and instruction execution. CISC and RISC architectures. Central Processing Unit (CPU). Performance and benchmarking. Instruction level parallelism and pipelining. Superscalar and VLIW processors. Main memory technologies. Memory hierarchies and cache memories. Virtual memory. Input-Output devices, buses and controllers. Interrupts and DMA techniques."
 uri: "https://e-class.ionio.gr/courses/DCS114/"
 code: ΗΥ500
 semester: 3
 type: "Υποχρεωτικό"
 hours: 4
-extra: 2E
+extra: 2L
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
-  - ["D.A.Patterson & J.L.Hennessy, “Οργάνωση και Σχεδίαση Υπολογιστών (Τόμος Α’)” , 4η έκδοση, Κλειδάριθμος, 2010."](https://service.eudoxus.gr/search/#a/id:12561945/0)
-  - ["W. Stallings, “Οργάνωση και Aρχιτεκτονική Υπολογιστών”, 8η έκδοση, ΤΖΙΟΛΑ, 2011."](https://service.eudoxus.gr/search/#a/id:18549120/0)
+bibliography: 
+  - "D.A.Patterson & J.L.Hennessy, Computer Organization and Design, Fourth Edition, Morgan Kaufmann, 2011."
+  - "W. Stallings, Computer Organization and Architecture (9th Edition), Pearson, 2012"
   

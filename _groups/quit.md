@@ -1,6 +1,6 @@
 ---
 ref: quit
-title: "Εργαστήριο Κβαντικών και μή Συμβατικών Υπολογισμών(QUITLab)"
+title: "Quantum and UnconventIonal CompuTing Laboratory(QUITLab)"
 header:
   teaser: /assets/images/QUIT.jpg
   og_image: /assets/images/QUIT.jpg

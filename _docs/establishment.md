@@ -1,19 +1,14 @@
 ---
 ref: establishment
-title: "Ίδρυση"
-excerpt: "Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου δημιουργήθηκε στο πλαίσιο του ΕΠΕΑΕΚ με το νόμο υπ’ αριθ. 3255 /2004 και λειτουργεί από το ακαδημαϊκό έτος 2004-05. Το Τμήμα δέχεται κάθε χρόνο 100 φοιτητές/τριες από το 2ο και 4ο επιστημονικό πεδίο και έχει ως αντικείμενο τόσο τη θεωρητική όσο και την εφαρμοσμένη Πληροφορική.
+title: "Establishment"
+excerpt: "The Department’s mission is to advance scientific and research activities relating to the design, use, applications and implications of information technology. Its function is complementary to that of similar departments in Greece: Our Department is clearly focused on novel applications in the areas of Information Systems and Humanistic Informatics.
 
-Η έδρα του Τμήματος Πληροφορικής βρίσκεται στην πόλη της Κέρκυρας. Η ταυτότητα του Τμήματος μπορεί να αναζητηθεί στη προσπάθεια του ελληνικού κράτους για την ίδρυση νέων τμημάτων στην ελληνική περιφέρεια με στόχο την προώθηση επιστημών ή επιστημονικών μεθόδων και αναζητήσεων που δεν καλύπτονται από προϋπάρχοντα τμήματα ΑΕΙ.
+As a result, its function is complementary to that of similar departments in Greece and is clearly focused on novel applications in the areas of Information Systems and Humanistic Informatics. On one hand, Information Systems are crucial in production, services and management in enterprises nowadays. Humanistic Informatics, on the other hand, addresses the need for education and research within the area of Informatics, consistently with the nature of the Ionian University.
 
-Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου έχει ως αποστολή και σκοπό:
+The purpose of the Department of Informatics of the Ionian University is:
 
-- Να καλλιεργεί και να προάγει την Πληροφορική Επιστήμη, με ιδιαίτερη έμφαση στη θεωρία και τις εφαρμογές της Πληροφορικής στους τομείς των Ανθρωπιστικών και Κοινωνικών Επιστημών, καθώς επίσης και στο σχεδιασμό, την ανάπτυξη, τη λειτουργία και τη διαχείριση των πληροφοριακών συστημάτων.
-
-- Να παρέχει στους φοιτητές εξειδικευμένες γνώσεις που θα τους επιτρέπουν να απασχοληθούν, πέραν των βασικών τομέων της Πληροφορικής, με την μελέτη, την έρευνα, κατανόηση και εφαρμογή, καθώς και με τις επιπτώσεις της εισαγωγής και χρήσης της Πληροφορικής Επιστήμης στην υποστήριξη των ποικίλων κοινωνικών, διοικητικών και οικονομικών δραστηριοτήτων.
-
-Η δράση συνεπώς του Τμήματος μας είναι συμπληρωματική στη δράση των αντίστοιχων τμημάτων στον ελλαδικό χώρο και σαφώς προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των Πληροφοριακών Συστημάτων αλλά και των Ανθρωπιστικών-Κοινωνικών Επιστημών.
-
-Η κατεύθυνση των Πληροφοριακών Συστημάτων αφενός, έχει καταστεί σήμερα, ένας κρίσιμος παράγοντας της παραγωγής, των υπηρεσιών και της διοίκησης των οργανισμών και αφετέρου η κατεύθυνση των Ανθρωπιστικών και Κοινωνικών Επιστημών ανταποκρίνεται τόσο στη διεθνή πραγματικότητα και τις εκπαιδευτικές και ερευνητικές ανάγκες του χώρου της Πληροφορικής, όσο και στη φυσιογνωμία του Ιονίου Πανεπιστημίου."
+- To cultivate and promote the Science of Computing, focusing on the theory and the applications of Informatics in the areas of Humanistic Informatics as well as on the design, development, operation and management of Information Systems.
+- To offer the latest knowledge and state-of-the-art support to the students, enabling them to engage in the study, research, and application of Informatics, and to appreciate its profound effect in administrative, social, and financial activities."
 
 ---
 

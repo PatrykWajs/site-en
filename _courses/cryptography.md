@@ -1,20 +1,19 @@
 ---
 ref: cryptography
-title: "Κρυπτογραφία"
+title: "Cryptography"
 semester: 3
 author: emagos
-excerpt: "Κλασσικοί Αλγόριθμοι – Ασφάλεια και Κρυπτανάλυση. Μονοαλφαβητικοί Αλγόριθμοι Αντικατάστασης: Αλγόριθμος Ολίσθησης, Γενικευμένος Αλγόριθμος Αντικατάστασης, Αλγόριθμος Affine. Πολυαλφαβητικοί Αλγόριθμοι Αντικατάστασης: Αλγόριθμος Vigenere, Αλγόριθμος Hill. Κλασσικοί Αλγόριθμοι Αναδιάταξης: Αλγόριθμος Μετάθεσης. Απόλυτη και Υπολογιστική Ασφάλεια. Ο Αλγόριθμος One-Time-Pad (OTP). Εντροπία και Ασφάλεια Κρυπτοαλγορίθμων. Πλεονασμός Φυσικής Γλώσσας και Ασφάλεια. Απόσταση Ενοποίησης. Τυχαιότητα και Ψευδοτυχαιότητα: Γεννήτορες παραγωγής ψευδοτυχαιότητας. Μοντέρνα Συμμετρικά Κρυπτοσυστήματα: Αλγόριθμοι Τμήματος και Αλγόριθμοι Ροής. Αλγόριθμος DES, Αλγόριθμος Triple-DES, Αλγόριθμος S/DES. Tρόποι λειτουργίας συμμετρικών αλγορίθμων: Τρόποι ECB, CBC, OFB, CFB, CTR. Ακεραιότητα με Μονόδρομες Συναρτήσεις Hash: Σχεδίαση και Ασφάλεια συναρτήσεων Hash, εφαρμογές στην ασφάλεια συστημάτων και δικτύων. Αυθεντικότητα με Συναρτήσεις MAC: Σχεδίαση και ασφάλεια συναρτήσεων MAC, εφαρμογές στην ασφάλεια συστημάτων και δικτύων. Συνδυασμένες υπηρεσίες: Εμπιστευτικότητα και Αυθεντικότητα με συμμετρικά συστήματα. Ασύμμετρα Συστήματα ΔΚ. Κρυπτογράφηση με τον Αλγόριθμο RSA. O Αλγόριθμος Rabin. Ντετερμινιστική και Πιθανοτική Κρυπτογράφηση με ΔΚ. Ο Αλγόριθμος  κρυπτογράφησης Elgamal. Ο Αλγόριθμος Κρυπτογράφησης Goldwasser-Micali. Ψηφιακή Υπογραφή με αλγορίθμους ΔΚ. Ψηφιακή Υπογραφή με τον Αλγόριθμο RSA. Συνδυασμένες υπηρεσίες: Εμπιστευτικότητα και Αυθεντικότητα με κρυπτοσυστήματα ΔΚ. Διαχείριση Δημόσιου Κλειδιού: Πιστοποιητικά Χ.509. Κεντρικά Μοντέλα Εμπιστοσύνης – Υποδομές ΔΚ: Ιεραρχική πιστοποίηση, Δια-πιστοποίηση, Ιεραρχίες Πολλών Επιπέδων. Μοντέλα Κατανεμημένης Εμπιστοσύνης. Το μοντέλο PGP. Εφαρμογές κρυπτοαλγορίθμων στην ασφάλεια συστημάτων και δικτύων."
+excerpt: "Cryptology and Cryptology. Classical ciphers; Security and Cryptanalysis. Monoalphabetical ciphers; Polyalphabetic ciphers. Absolute security; One-Time Pad; Computational security of encryption systems; Entropy and cryptographic security; Physical language redundancy; Randomness and Pseudorandomness. Modern Symmetric Cryptosystems: DES algorithm; Triple-DES, Simplified DES. Cipher modes: ECB, CBC, OFB, CFB, CT. Integrity and Message Authentication: Cryptographic Hash functions; Message Authentication Codes. Public Key Cryptography. Public Encryption Algorithms: RSA encryption, Rabin encryption. Deterninistic and Probabilistic encryption; Elgamal cryptosystem; Goldwasser-Micali cryptosystem. Digital Signature Algorithms: RSA signature; ElGamal signature; Digital Signature standard. Public Key infrastructures: Digital certificates; Trust models; PGP model."
 uri: "https://e-class.ionio.gr/courses/DCS101/"
 code: ΜΘ500
-type: "Επιλογής"
+type: "Elective"
 hours: 4
 extra: 
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - ["Κρυπτογραφία και ασφάλεια δικτύων – αρχες και εφαρμογες. William Stallings, ΙΩΝ 2012."](https://service.eudoxus.gr/search/#a/id:12777632/0)
-  - ["Σύγχρονη Κρυπτογραφία – Θεωρία και Εφαρμογές. M. Burmester, Σ. Γκρίτζαλης, Σ. Κάτσικας. Β. Χρυσικόπουλος. Παπασωτηρίου, 2010."](https://service.eudoxus.gr/search/#a/id:9771/0)
+Bibliography: 
+  - "Κρυπτογραφία και ασφάλεια δικτύων – αρχες και εφαρμογες. William Stallings, ΙΩΝ 2012."[eudoxus link](https://service.eudoxus.gr/search/#a/id:12777632/0)
+  - "Σύγχρονη Κρυπτογραφία – Θεωρία και Εφαρμογές. M. Burmester, Σ. Γκρίτζαλης, Σ. Κάτσικας. Β. Χρυσικόπουλος. Παπασωτηρίου, 2010."[eudoxus link](https://service.eudoxus.gr/search/#a/id:9771/0)
   
-

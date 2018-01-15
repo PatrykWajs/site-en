@@ -1,20 +1,23 @@
 ---
 ref: discrete-mathematics
-title: "Διακριτά Μαθηματικά"
+title: "Discrete Mathematics"
 semester: 2
 author: vlamos
-excerpt: "Εισαγωγή – αναδρομικά προβλήματα: ο πύργος του Hanoi, διαμέριση επιπέδου, το πρόβλημα του Flavious Josephus. Βασικές αρχές της συνδυαστικής ανάλυσης: το αντικείμενο της συνδυαστικής, οι βασικές αρχές της συνδυαστικής, οι βασικοί συνδυαστικοί σχηματισμοί. Λογισμός με πεπερασμένα αθροίσματα: ιδιότητες, πολλαπλά αθροίσματα. Διακριτός λογισμός: αντιστοίχιση διακριτού και απειροστικού λογισμού, αρνητικές παραγοντικές δυνάμεις, πίνακας διαφορών – αθροισμάτων. Διωνυμικοί συντελεστές – ειδικοί αριθμοί: διωνυμικοί συντελεστές, βασικές ταυτότητες, αθροίσματα γινομένων, αριθμοί Stirling, βασικές ταυτότητες, αρμονικοί αριθμοί, αριθμοί Fibonacci, αριθμοί Catalan. Βασικές αρχές θεωρίας αριθμών: ευκλείδεια διαίρεση, διαιρετότητα, μέγιστος κοινός διαιρέτης, γραμμική διοφαντική εξίσωση, ελάχιστο κοινό πολλαπλάσιο, πρώτοι αριθμοί, πλήθος και άθροισμα διαιρετών. Ακέραιες συναρτήσεις – γεννήτριες συναρτήσεις: ακέραιο μέρος πραγματικού αριθμού, αριθμητικές – πολλαπλασιαστικές συναρτήσεις, η συνάρτηση του Euler, η συνάρτηση του Legendre. Γεννήτρια συνάρτηση: εκθετική γεννήτρια συνάρτηση, γεννήτρια συνάρτηση αριθμών Catalan, γεννήτρια συνάρτηση αριθμών Fibonacci, γεννήτρια συνάρτηση αριθμών Stirling, λογισμός με γεννήτριες συναρτήσεις, πίνακας απλών ακολουθιών και γεννητριών τους, γεννήτριες συναρτήσεις ειδικών αριθμών."
+excerpt: "Recursive problems: Hanoi Tower, plane partition, Flavious Josephus problem. Fundamental combinatorial analysis: basic principles, combinatorics formations. Calculus of Finite sums: properties, multiple sums. Discrete calculus: association of calculus and discrete calculus, negative factorial power, differential tables – sums. Binomial coefficients – special numbers: binomial coefficients, sums of multiplications, Stirling numbers, harmonic numbers, Fibonacci, Catalan numbers. Basic principles of number theory: Euclidean division, divisibility, greatest common divisor, linear Diophantine equation, least common multiple, prime numbers, sum of divisors. Integer functions – generating functions: integer part of real numbers, Euler function, Legendre function. Generating  functions: exponential generating function, Catalan Numbers generating function, Fibonacci numbers generating function, Stirling Numbers generating function, calculus with generating functions."
 uri: "https://e-class.ionio.gr/courses/DCS193/"
 code: ΜΘ120
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 4
-extra: 2Φ
+extra: 2D
 ects: 6
 ---
 
 
-Βιβλιογραφία: 
-  - [“Διακριτά μαθηματικά”, Παναγιωτόπουλος Αντώνιος Χ., Εκδόσεις Σταμούλη, ISBN 960-351-227-3, 1999](https://service.eudoxus.gr/search/#a/id:23085/0)
-  - [“ΣΤΟΙΧΕΙΑ ΔΙΑΚΡΙΤΩΝ ΜΑΘΗΜΑΤΙΚΩΝ”, LIU C.L., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-072-1, 2009](https://service.eudoxus.gr/search/#a/id:225/0)
-
-
+Bibliography: 
+  - “Discrete Mathematics: Mathematics of Computer Science, L. Kyrousis, Ch. Bouras and P. Spyrakis, Gutenberg, 1992"
+  - "Discrete Mathematics: Problems and Solutions, C. Voutsadakis, L. Kyrousis, Ch. Bouras and P. Spyrakis, Gutenberg, 1994."
+  - "Introduction to Combinatorial Mathematics, CL Liu, Mc Graw Hill Ch. Charalambides, Combinatorics (1st issue) Symmetry"
+  - "Elements of Discrete Mathematics, CL Liu, McGraw-Hill, Second Edition."
+  - "Discrete Mathematics, Seymour Lipschutz Marglipson, McGraw-Hill, Second Edition"
+  - "Discrete Mathematics A Unified Approach, Stephen A. Wiitala, McGraw-Hill."
+  - "Discrete Mathematics and Its Applications, Kenneth H. Rosen, McGraw-Hill, Fourth Edition"

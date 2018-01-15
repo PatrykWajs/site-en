@@ -1,6 +1,6 @@
 ---
 ref: swthria
-title: "Σωτηρία-Σοφία Αρωνιάδα"
-bio: "Γραμματεία"
+title: "Swtiria-Sofia Aroniada"
+bio: "Secretariat"
 author: swthria
 ---

@@ -1,7 +1,7 @@
 ---
 ref: alexiou
-title: "Αθανάσιος Αλεξίου"
-bio: "Απόφοιτος Διδάκτορας"
+title: "Athanasios Alexiou"
+bio: "Graduate Doctor"
 rank: 7
 author: alexiou
 tel: ""

@@ -1,19 +1,19 @@
 ---
 ref: compilers
-title: "Μεταγλωττιστές"
-author: 	mistral
-excerpt: "Εισαγωγή στη μεταγλώττιση των προγραμμάτων. Γλώσσες γενικού σκοπού και ειδικές γλώσσες πεδίου (domain specific languages – DSLs). Λεκτική ανάλυση και εξαγωγή συμβόλων από πηγαίο κώδικα. Κανονικές Εκφράσεις και η πρακτική εφαρμογή τους. Αλγόριθμοι συντακτικής ανάλυσης. Πρακτική συντακτική ανάλυση top-down. Parsing Expression Grammars (PEGs). Πίνακες συμβόλων και ενδιάμεσος κώδικας. Εργαλεία μεταγλώττισης: διερμηνευτές (interpreters), συμβολομεταφραστές (assemblers), συνδέτες (linkers) και φορτωτές (loaders)."
+title: "Compilers"
+author: mistral
+excerpt: "Introduction to compilation of computer programs. General-purpose programming languages and domain specific languages (DSLs). Lexical analysis and token extraction from source code. Regular Expressions and their practical usage. Syntactical Analysis and parsing methodologies. Practical top-down parsing. Parsing Expression Grammars (PEGs). Symbol tables and intermediate code.Compiler tools:  interpreters, assemblers, linkers and loaders."
 uri: "https://e-class.ionio.gr/courses/DCS135/"
 code: ΗΥ150
 semester: 6
-type: "Επιλογής"
+type: "Elective"
 hours: 4
-extra: 2E
+extra: 2L
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - ["Μεταγλωττιστές, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman"](https://service.eudoxus.gr/search/#a/id:12713790/0)
-  - ["Μεταγλωττιστές, Παπασπύρου Νικόλαος Σ.,Σκορδαλάκης Εμμανουήλ Σ."](https://service.eudoxus.gr/search/#a/id:45346/0)
+Bibliography: 
+  - " Compilers, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman" [eudoxus link](https://service.eudoxus.gr/search/#a/id:12713790/0)
+  - " Compilers, Παπασπύρου Νικόλαος Σ.,Σκορδαλάκης Εμμανουήλ Σ." [eudoxus link](https://service.eudoxus.gr/search/#a/id:45346/0)
   

@@ -1,20 +1,20 @@
 ---
 ref: computer graphics
-title: "Γραφικά με Υπολογιστές"
+title: "Computer Graphics"
 semester: 5
 author: fmylonas
-excerpt: "Βασικές έννοιες γραφικών με υπολογιστές και εφαρμογές τους, Ιστορία και γενικά χαρακτηριστικά, Διανυσματική(ά) / Πλεγματική(ά) απεικόνιση/γραφικά, Εισαγωγικά στοιχεία σωλήνωσης, Βασικές Έννοιες Σχεδίασης, Αλγόριθμοι Σχεδίασης Ευθύγραμμου Τμήματος, Κύκλου, Έλλειψης, Φαινόμενο Ταύτισης, Τρόποι αναπαράστασης, παραγωγής και απεικόνισης τριδιάστατων δεδομένων, Χρωματισμός πολυγώνων, Αποκοπή, Μετασχηματισμοί και συστήματα συντεταγμένων, Σύνθεση 2Δ Μετασχηματισμών, Ομογενείς Συντεταγμένες, Μετασχηματισμοί Προβολής, Προοπτική, Παράλληλη, Πλάγια Προβολή"
+excerpt: "Basic concepts of computer graphics and applications, History, Vector / Raster graphics, Graphics pipeline, 2d Raster algorithms: line, circle, ellipse, Aliasing, Knowledge representation, production and display of three-dimensional data, Polygon filling, Clipping, Transformations and Coordinate Systems, 2D Transformation Synthesis, Homogeneous Coordinates, Perspective: oblique, parallel."
 uri: "https://e-class.ionio.gr/courses/DCS240/"
 code: ΗΥ640
-type: "Κατεύθυνση Α.Ε."
+type: "Specialisation H.I."
 hours: 4
-extra: 2Ε
+extra: 2L
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  - [“Γραφικά και Οπτικοποίηση”, Θεοχάρης Θ., Πλατής Ν., Παπαϊωάννου Γ., Πατρικαλάκης Ν., Εκδόσεις Συμμετρία, ISBN 978-960-266-296-0, 2010"](https://service.eudoxus.gr/search/#a/id:35474/0)
-  - [“Γραφικά με ηλεκτρονικό υπολογιστή”, Στυλιάδης Αθανάσιος Δ., Εκδόσεις Ζήτη, ISBN 960-431-510-2, 1999"](https://service.eudoxus.gr/search/#a/id:11193/0)
+Bibliography: 
+  - “Γραφικά και Οπτικοποίηση”, Θεοχάρης Θ., Πλατής Ν., Παπαϊωάννου Γ., Πατρικαλάκης Ν., Εκδόσεις Συμμετρία, ISBN 978-960-266-296-0, 2010"[eudoxus link](https://service.eudoxus.gr/search/#a/id:35474/0)
+  - “Γραφικά με ηλεκτρονικό υπολογιστή”, Στυλιάδης Αθανάσιος Δ., Εκδόσεις Ζήτη, ISBN 960-431-510-2, 1999"[eudoxus link](https://service.eudoxus.gr/search/#a/id:11193/0)
   
 

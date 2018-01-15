@@ -1,44 +1,65 @@
 ---
 ref: specialization
-title: "Κατευθύνσεις"
-excerpt: "Α. Πληροφορική – Ανθρωπιστικές και Κοινωνικές Επιστήμες
+title: "Specialization"
+excerpt: "A. Humanistic Informatics
 
-Οι εφαρμογές της Πληροφορικής στους τομείς των Ανθρωπιστικών και Κοινωνικών Επιστημών καλύπτουν ένα ευρύτατο φάσμα θεμάτων και ενδιαφερόντων. Βασικός άξονας των εφαρμογών είναι η μελέτη της επίδρασης των νέων Τεχνολογιών στην ανθρώπινη σκέψη, αντίληψη, εργασία και δημιουργία, στις κοινωνικές σχέσεις, στην εκπαίδευση, στις επιστήμες, στην πολιτική και πολιτιστική δράση, καθώς και της επίδρασης της ανθρώπινης παρουσίας, νόησης και συμπεριφοράς, ατομικής και ομαδικής στην ίδια την επιστήμη της Πληροφορικής και των Επικοινωνιών. Η κατεύθυνση αυτή ανταποκρίνεται τόσο στη διεθνή πραγματικότητα και τις εκπαιδευτικές και ερευνητικές ανάγκες του χώρου της Πληροφορικής, όσο και στη φυσιογνωμία του Ιονίου Πανεπιστημίου, τις ανάγκες του Ιονίου χώρου, αλλά και του Ελληνικού χώρου γενικότερα.
+The application of Informatics in the areas of Humanistic and Social Sciences covers a wide range of topics and interests. Despite the potential it represents for the related scientific fields, the adoption of Informatics in these areas is faced with reservations.
 
-Η κατεύθυνση στις Ανθρωπιστικές και Κοινωνικές Επιστήμες δε σημαίνει απλά έμφαση σε εφαρμογές της Πληροφορικής στους αντίστοιχους τομείς, αλλά κυρίως διεπιστημονικότητα στην μεθοδολογία και στους τρόπους ενσωμάτωσης των νέων τεχνολογιών στο σώμα των αντίστοιχων γνωστικών πεδίων. Οι τομείς ενδιαφέροντος της κατεύθυνσης είναι: α) Υπολογιστική Γλωσσολογία, β) Ιστορική και Πολιτισμική Πληροφορική, γ) Ψηφιακή Διαδρασιακή Τηλεόραση, δ) Βιντεοπαιχνίδια, και ε) Συστήμα Πολυμεσικής Επικοινωνίας και Διάδρασης από Απόσταση.
+The department addresses the needs for education and research within the area of Informatics, and tones in with the nature of the Ionian University and Greece in general. The department is unique in Greece with respect to this orientation.
 
-Γνωστικά πεδία που εντάσσονται στα ενδιαφέροντα αυτής της κατεύθυνσης είναι:
+A department of Informatics with a specialization in Humanistic and Social studies does not only imply an emphasis on applications of Informatics in the related areas, but also
 
-- Επικοινωνία Ανθρώπου-Υπολογιστή
-- Τεχνητή Νοημοσύνη
-- Τεχνολογία Ψυχαγωγικού Λογισμικού
-- Επεξεργασία Φυσικής Γλώσσας
-- Γραφικά Υπολογιστή και Επεξεργασία και Εικόνας
-- Σχεδιασμός και Διαχείριση Πολυμέσων
-- Κοινωνικά και Συνεργατικά Συστήματα
+core research in all areas regarding the methodologies and the modes of incorporating new technologies into the scientific body of the corresponding fields.
+education and research in areas of high interest to the science of Informatics, as well as to the corresponding scientific fields. As an indication, such areas are:
+a. Computational Linguistics and Natural Language Processing,
+b. Historical Informatics,
+c. Computational Music,
+d. Informatics in the History of Art, in Architecture and Design,
+e. Informatics in Publishing and Text.
 
-Β. Πληροφοριακά Συστήματα
+education and research concerning the implications of Informatics to the related scientific fields, as well as to the culture and the community in general. These effects often entail radical changes in social relations and social structures.
+Scientific fields that could be included within this direction and which could possibly constitute a course schedule (alongside with core courses), are:
 
-Τα Πληροφοριακά Συστήματα (ΠΣ) έχουν καταστεί σήμερα, ένας κρίσιμος παράγοντας της παραγωγής, των υπηρεσιών και της διοίκησης των οργανισμών. Η αποτελεσματική και αποδοτική χρήση των τεχνολογιών της πληροφορίας και επικοινωνίας (ΤΠΕ) είναι ένα σημαντικό στοιχείο στην επίτευξη ανταγωνιστικού πλεονεκτήματος για εμπορικές επιχειρήσεις και ποιοτικών υπηρεσιών για κυβερνητικούς και μη οργανισμούς. Κατά συνέπεια, οι ΤΠΕ/ΠΣ είναι σήμερα αναπόσπαστο τμήμα της στρατηγικής κάθε οργανισμού, μικρού ή μεγάλου, δημόσιου ή ιδιωτικού.
+- Computational Linguistics
+- Machine Translation
+- Graphics Communication
+- Image Processing
+- Information Visualization
+- Data Representation
+- Database Theory and Design
+- Text Structural Analysis  and Format
+- Data Encoding
+- Electronic text processing:
+- Linguistic processing, stylistic and content analysis
+- Computational Music
+- Natural Language Processing
+- Historical Informatics
+- Communication and Data Transmission
+- Multimedia Design and Processing
+- Cultural Informatics
+- Social Informatics
 
-Τα ΠΣ, ως πεδίο Πανεπιστημιακής έρευνας και εκπαίδευσης, ξεκίνησε από την δεκαετία του 1960, όταν οι οργανισμοί επέκτειναν τη χρήση των τεχνολογιών της πληροφορίας για την υποστήριξη λειτουργικών διαδικασιών λήψης αποφάσεων καθώς και στρατηγικής του ανταγωνισμού και παράλληλα, έτσι, προς πανεπιστημιακά προγράμματα σπουδών σχετικά με την διαχείριση οικονομικών πόρων και ανθρώπινου δυναμικού, προέκυψε η ανάγκη για τη δημιουργία προγραμμάτων σπουδών για τη διαχείριση των τεχνολογιών της πληροφορίας.
+B. Information Systems
 
-Τα γνωστικά αντικείμενα που πρέπει να κατέχουν οι επιστήμονες Πληροφοριακών Συστημάτων προσδιορίζονται στο ACM Model Curriculum and Guidelines for Undergraduate Degree Programs in Information Systems (ACM IS 2002) και είναι :
+Information systems constitute nowadays a crucial factor in the production and provisioning of services as well as the management of organizations. The effective and efficient use of Information Technologies is a significant element for commercial enterprises that wish to gain a competitive advantage, as well as for state organizations that wish to provide quality services. As a result, Information technologies are an integral part of the strategy of every organization, regardless its size and status.
 
-- Βασικές αρχές Πληροφοριακών Συστημάτων
-- Στρατηγική, Αρχιτεκτονική και Σχεδιασμός Ηλεκτρονικών Επιχειρήσεων
-- Θεωρία και Πρακτική Πληροφοριακών Συστημάτων
-- Λογισμικό και Υλικό για Τεχνολογίες Πληροφορικής
-- Προγραμματισμός
-- Δομές Δεδομένων, Αντικειμένων και Αρχείων
-- Δίκτυα και Τηλεπικοινωνίες
-- Ανάλυση και Λογικός Σχεδιασμός Πληροφοριακών Συστημάτων
-- Βάσεις Δεδομένων και Εξόρυξη Δεδομένων
-- Διαχείριση έργων Πληροφορικής
+The field of Information Systems (as a field of academic research and education), arose in the 1960s, when organizations extended the use of Information Technologies in order to support the operating processes of decision making, as well as their competition strategy. Thereby, university departments that were related to financial and human resources management acknowledged the need to create course plans that cover the topics of Information Technologies.
 
-Λαμβάνοντας υπόψη τα παραπάνω γνωστικά αντικείμενα συγκροτήσαμε ένα συνεκτικό πρόγραμμα σπουδών για αυτή την κατεύθυνση ‘Πληροφοριακά Συστήματα, του Τμήματός μας."
+The topics that need to be mastered by Information Systems scientists are defined in the ACM Model Curriculum and Guidelines for Undergraduate Degree Programs in Information Systems (ACM IS 2002):
 
+- Basic Principles of Information Systems
+- Strategies, Architecture and Design of E-commerce applications
+- Theory and Practice of Information Systems
+- Software and hardware for Information Technologies
+- Programming
+- Structures of Data, Objects and Files
+- Networks and Telecommunications
+- Analysis and Logic Design of Information Systems
+- Databases and Data Mining
+- Management of IT Projects
 
+Taking into account the above scientific fields, we have formed a cohesive course plan for the Information Systems specialization of our department.
 
+To a large extent these areas are of educational and research interest to the other departments of the Ionian University and related courses can be implemented in collaboration with the latter."
 ---
 

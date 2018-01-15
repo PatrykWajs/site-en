@@ -1,19 +1,18 @@
 ---
 ref: ba
-title: "Οργάνωση και Διοίκηση Επιχειρησέων"
+title: "Business Administration"
 semester: 2
 author: 
-excerpt: "Οργανωσιακή Θεωρία, Τι είναι Οργανισμός, Διαστάσεις Οργανωσιακού Σχεδιασμού, Στρατηγική Επιχειρήσεων, Αντιστοίχιση σχεδιασμού-στόxων και στρατηγικής, Αποτελεσματικότητα έναντι Αποδοτικότητας, Τύποι Δομής Οργανισμών, Συστήματα Πληροφορικής και Επικοινωνιών για τη λήψη Επιχειρηματικών Αποφάσεων, Αντίκτυπο της Ποιότητας της Πληροφορίας στη λήψη αποφάσεων, Επιχειρηματικές Διαδικασίες υποβοηθούμενες από την τεχνολογία RFID κ.α."
+excerpt: "Organization Theory, What is an organization, Dimensions of Organization Design, Organization Strategy, Fitting Design/ Goals to Strategy, Effectiveness vs. Efficiency,  Types of Organization Structure, Information and Communication Systems for Management Decision Making, Information Quality impact on  Decision Making, RFID-enabled Business Processes etc."
 uri: "https://e-class.ionio.gr/courses/DCS268/"
 code: ΔΟ160
-type: "Επιλογής"
+type: "Elective"
 hours: 4
 extra: 
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - [““ΟΡΓΑΝΩΣΙΑΚΗ ΘΕΩΡΙΑ ΚΑΙ ΣΧΕΔΙΑΣΜΟΣ”, RICHARD L. DAFT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-846-5, 2005"](https://service.eudoxus.gr/search/#a/id:13849/0)
-  
+bibliography: 
+  - ““ORGANIZATION THORY AND DESIGN”, RICHARD L. DAFT, Klidarithos Publications, ISBN 960-209-846-5, 2005 (in Greek)"
   

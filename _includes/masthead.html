@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/index' | absolute_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
         <ul class="visible-links">
           {% assign links = site.data.navigation.main %}
           {% for link in links %}

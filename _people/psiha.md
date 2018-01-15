@@ -1,7 +1,7 @@
 ---
 ref: psiha
-title: "Μαρία Ψύχα"
-bio: "Απόφοιτος Διδάκτορας"
+title: "Maria Psiha"
+bio: "Graduate Doctor"
 rank: 7
 author: psiha
 tel: ""

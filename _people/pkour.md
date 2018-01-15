@@ -1,16 +1,16 @@
 ---
 ref: pkour
-title: "Παναγιώτης Κουρουθανάσης"
-excerpt: "Πληροφοριακά Συστήματα και Ηλεκτρονική Διακυβέρνηση"
+title: "Panagiotis Kourouthanassis"
+excerpt: "Information Systems and E-Goverment"
 rank: 3
 author: pkour
 research:
- - "Ηλεκτρονικό Επιχειρείν"
- - "Ηλεκτρονική Διακυβέρνηση"
- - "Πληροφοριακά Συστήματα"
+ - "Electronic Business"
+ - "Electronic Government"
+ - "Information Systems Management"
 ---
 
 ### Education:
-  - "Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών"
-  - "Μεταπτυχιακό δίπλωμα ειδίκευσης στις Επιστήμες των Αποφάσεων, Οικονομικό Πανεπιστήμιο Αθηνών"
-  - "Διδακτορικό δίπλωμα στα Πληροφοριακά Συστήματα, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών."
+  - "BSc in Informatics, Athens University of Economics and Business"
+  - "MSc in Decision Sciences, Athens University of Economics and Business"
+  - "PhD in Information Systems, Department of Management Science and Technology, Athens University of Economics and Business"

@@ -1,19 +1,20 @@
 ---
 ref: statistics 
-title: "Στατιστική "
+title: "Statistics"
 semester: 3
-author: avlon 
-excerpt: "Θεωρία δειγματοληψίας, Τυχαία δείγματα, Τυχαίοι αριθμοί. Περιγραφή στατιστικών δεδομένων με πίνακες και γραφήματα, Πίνακας συχνοτήτων, Ραβδόγραμμα, Ιστόγραμμα. Στατιστικές εκτιμήσεις, Διαστήματα εμπιστοσύνης, Διαδικασία ελέγχου στατιστικής υπόθεσης, Στατιστική υπόθεση, Στατιστική ελέγχου, Περιοχή απόρριψης, Απόφαση ελέγχου. Παλινδρόμηση και Συσχέτιση. Η παραβολή ελαχίστων τετραγώνων, Ανάλυση διασποράς. Συντελεστής συσχέτισης και σημειακή εκτίμηση του. Σχέση συντελεστή συσχέτισης και παλινδρόμησης. Χρήση στατιστικού λογισμικού."
+author: avlon
+excerpt: "Sampling theory, Random samples, Random numbers. Description of statistical data with arrays and graphics, Frequency array, Histogram. Analysis of Variance. Correlation coefficient. Confidence intervals, Statistical hypothesis-testing process. Regression. Statistical software."
 uri: "https://e-class.ionio.gr/courses/DCS229/"
 code: 
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 4
 extra: 2Ε
 ects: 6
----
+--- 
 
 
-Βιβλιογραφία: 
-  - ["Περιγραφική και διερευνητική στατιστική ανάλυση δεδομένων”, Γεωργιακώδης Φώτης A.,Τσίμπος Κλέων Χ., Εκδόσεις Σταμούλη, ISBN 978-960-351-315-6, 2000"](https://service.eudoxus.gr/search/#a/id:23151/0)
-  - ["Πιθανότητες, τυχαίες μεταβλητές και στοχαστικές διαδικασίες”, Papoulis Athanasios, Pillai S. Unnikrishna, Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-127-8, 2007"](https://service.eudoxus.gr/search/#a/id:18549068/0)
+bibliography: 
+  - "Περιγραφική και διερευνητική στατιστική ανάλυση δεδομένων”, Γεωργιακώδης Φώτης A.,Τσίμπος Κλέων Χ., Εκδόσεις Σταμούλη, ISBN 978-960-351-315-6, 2000"
+  - "Πιθανότητες, τυχαίες μεταβλητές και στοχαστικές διαδικασίες”, Papoulis Athanasios, Pillai S. Unnikrishna, Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-127-8, 2007"
+
 

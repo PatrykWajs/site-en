@@ -1,20 +1,20 @@
 ---
 ref: strategic-management-of-information-systems
-title: "Στρατηγική και Διοίκηση Πληροφοριακών Συστημάτων"
+title: "Strategic Management of Information Systems"
 author: pateli
-excerpt: "Επιχειρηματική στρατηγική. Στρατηγικό management. Διαδικασία στρατηγικού σχεδιασμού. Ανάλυση εξωτερικού και εσωτερικού περιβάλλοντος. Η στρατηγική σημασία των Πληροφοριακών Συστημάτων (Π.Σ.). Μέθοδοι αξιολόγησης στρατηγικών Π.Σ. Ο στρατηγικός ρόλος των ενδο-επιχειρησιακών Π.Σ. Σύνδεση της επιχειρηματικής στρατηγικής και των Π.Σ. Επίδραση των Πληροφοριακών Συστημάτων στην αλυσίδα αξίας της επιχείρησης. Κρίσιμοι παράγοντες επιτυχίας στη διαδικασία διαμόρφωσης στρατηγικής Πληροφοριακών Συστημάτων. Πληροφοριακά Συστήματα και αναδιοργάνωση επιχειρησιακών διαδικασιών. Διοίκηση υπηρεσιών Πληροφοριακών Συστημάτων σε έναν οργανισμό."
+excerpt: Introduction to Strategic Management and Strategic Planning. Analysis of Internal and External Business Environment. Strategic Analysis Tools (SWOT, PESTEL, 5 Forces Model, Value Chain). Maturity Model of Information Systems. Strategic Importance of Information Systems. Information Systems Evaluation. Business Process Modelling and Reengineering withe the use of IS. Governance of Information Systems."
 uri: "https://e-class.ionio.gr/courses/DCS163/"
 code: ΗΥ355
 semester: 8
-type: "Κατεύθυνση Π.Σ."
+type: "Compulsory I.S."
 hours: 4
 extra: 
 ects: 5
 ---
 
 
-Βιβλιογραφία: 
-  - ["ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΔΙΟΙΚΗΣΗΣ, KENNETH C. LAUDON, JANE P. LAUDON"](https://service.eudoxus.gr/search/#a/id:41962586/0)
-  - ["ΚΑΙΝΟΤΟΜΙΑ, ΣΤΡΑΤΗΓΙΚΗ, ΑΝΑΠΤΥΞΗ ΚΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, Γεώργιος Δουκίδης"](https://service.eudoxus.gr/search/#a/id:14035/0)
+Bibliography: 
+  - "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΔΙΟΙΚΗΣΗΣ, KENNETH C. LAUDON, JANE P. LAUDON"[eudoxus link](https://service.eudoxus.gr/search/#a/id:41962586/0)
+  - "ΚΑΙΝΟΤΟΜΙΑ, ΣΤΡΑΤΗΓΙΚΗ, ΑΝΑΠΤΥΞΗ ΚΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, Γεώργιος Δουκίδης"[eudoxus link](https://service.eudoxus.gr/search/#a/id:14035/0)
   
   

@@ -1,22 +1,24 @@
 ---
-ref: tsohou
-title: "Αγγελική Τσώχου"
-excerpt: "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
+ref: atsohou
+title: "Aggeliki Tsohou"
+excerpt: "Internet Security and Privacy"
 rank: 3
-author: tsohou
+author: atsohou
 research:
- - "Πολιτικές Ασφάλειας, Αντιλήψεις Επικινδυνότητας και Ενημερότητα Χρηστών"
- - "Ανάλυση Επικινδυνότητας και Διοίκηση Ασφάλειας Πληροφοριών"
- - "Πολιτικές Ασφάλειας για την Ορθή Χρήση του Διαδικτύου"
- - "Ιδιωτικότητα και Εργαλεία Ενίσχυσης της Ιδιωτικότητας"
- - "Ιδιωτικότητα σε Δικτυακές Εφαρμογές Κινητών Συσκευών"
- - "Πρότυπα Ασφάλειας και Ιδιωτικότητας"
- - "Ηλεκτρονικές Υπηρεσίες, Ηλεκτρονική Διακυβέρνηση και Πληροφοριακά Συστήματα"
+ - "Information Security Policies, Risk Perceptions and User Awareness"
+ - "Information Security Risk Assessment and Management"
+ - "Security Policies for Acceptable Internet Use"
+ - "Privacy Enhancing Tools"
+ - "Privacy Protection in Mobile Applications"
+ - "Information Security and Privacy Standards"
+ - "Theory Development and Research Methods in Information Systems"
+ - "e-Services, e-Government and Information Systems"
 ---
 
 ### Education:
-  - "Πτυχίο Πληροφορικής, Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών"
-  - "Μεταπτυχιακό Δίπλωμα Ειδίκευσης, MSc: «Πληροφοριακά Συστήματα», Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών"
-  - "Διδακτορικό Δίπλωμα, Ph.D.: «Η Ενημερότητα Ασφάλειας στα Πλαίσια της Διοίκησης Ασφάλειας Πληροφοριακών Συστημάτων», Τμήμα Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων, Πανεπιστήμιο Αιγαίου"
-  -"Μεταδιδακτορική Έρευνα, Postdoc (2011-2013), Brunel University West London, Business School, Ηνωμένο Βασίλειο"
-  -"Μεταδιδακτορική Έρευνα, Postdoc (2013-2014), University of Jyväskylä, Department of Computer Science and Information Systems, Φινλανδία"
+  - "B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece"
+  - "M.Sc. in Information Systems, Department of Informatics, Athens University of Economics and Business, Greece"
+  - "Doctor of Philosophy (Ph.D.), Department of Information and Communications Systems Engineering, University of the Aegean, Greece"
+  - "Ph.D. Thesis: Information Security Awareness in Information Systems Security Management"
+  - "Postdoc (2011-2013), Brunel Business School, Brunel University West London, UK"
+  - "Postdoc (2013-2014), University of Jyväskylä, Department of Computer Science and Information Systems, Finland"

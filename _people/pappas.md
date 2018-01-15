@@ -1,7 +1,7 @@
 ---
 ref: pappas
-title: "Ηλίας Παππάς"
-bio: "Απόφοιτος Διδάκτορας"
+title: "Ilias Pappas"
+bio: "Graduate Doctor"
 rank: 7
 author: pappas
 tel: ""

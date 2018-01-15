@@ -1,16 +1,16 @@
 ---
 ref: dtsouma
-title: "Δημήτριος Τσουμάκος"
-excerpt: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
+title: "Dimitrios Tsoumakos"
+excerpt: "Data Management on the Web"
 rank: 2
 author: dtsouma
 research:
- - "Κατανεμημένη διαχείριση δεδομένων"
- - "Υπολογιστικά νέφη και διαχείριση δεδομένων"
- - "Βάσεις δεδομένων και αποθήκες δεδομένων στο διαδίκτυο"
+ - "Distributed Data Management"
+ - "Data management in Cloud Computing"
+ - "Internet Databases and DataWarehouses"
 ---
 
 ### Education:
-  - "Πτυχίο Ηλεκτρολόγου Μηχανικού και Μηχανικού Η/Υ, Τμήμα Ηλεκτρολόγων Μηχ. και Μηχ. Υπολογιστών,  Εθνικό Μετσόβιο Πολυτεχνείο. Τίτλος Διπλωματικής Εργασίας: ‘Ηλεκτρονικός Οδηγός Σπουδών’. Επιβλέπων Καθηγητής: Τίμος Σελλής"
-  - "Mεταπτυχιακό Δίπλωμα (MSc) Ειδίκευσης στην Επιστήμη Υπολογιστών, Computer Science Department, University of Maryland, College Park, 20742, USA. Τίτλος Διατριβής: ‘Tracking the Locality of change in Web Pages’. Επιβλέπων Καθηγητής: Νικόλας Ρουσσόπουλος"
-  - "Διδακτορικό Δίπλωμα  (PhD), Computer Science Department, University of Maryland, College Park, 20742, USA. Τίτλος Διατριβής: ‘Search, Replication and Data Dissemination for Unstructured P2P Networks’. Επιβλέποντες Καθηγητές: Νικόλας Ρουσσόπουλος"
+  - "Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title of Thesis: ‘Electronic Study Guide of the ECE Department’. Advisor: Prof. Timos Sellis"
+  - "Master of Science (MSc), Computer Science Department, University of Maryland, College Park, 20742, USA. Title of Thesis: ‘Tracking the Locality of change in Web Pages’. Advisor: Prof. Nicholas Roussopoulos"
+  - "Doctor of Philosophy (PhD), Computer Science Department, University of Maryland, College Park, 20742, USA. Title of Thesis: ‘Search, Replication and Data Dissemination for Unstructured P2P Networks’. Advisor: Prof. Nicholas Roussopoulos"

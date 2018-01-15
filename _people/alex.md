@@ -1,15 +1,13 @@
 ---
 ref: alex
-title: "Αλέξανδρος Πανάρετος"
-bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+title: "Alexandros Panaretos "
+bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.) ΠΕ Department of Informatics"
 author: alex
-email: "alex@ionio.gr"
-uri:  "http://www.ionio.gr/~alex"
 research:
- - "Διαδικτυακός προγραμματισμός"
- - "Βάσεις Δεδομένων"
- - "Συστήματα Διαχείρησης Περιεχομένου"
- - "Κοινωνικά & Συνεργατικά Δίκτυα"
+ - "Internet programming"
+ - "Databases"
+ - "Content Management Systems"
+ - "Social and Cooperative Networks"
 ---
 
 ### education:

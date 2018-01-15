@@ -1,17 +1,17 @@
 ---
 ref: christos
-title: "Χρήστος Αναγνωστόπουλος"
-excerpt: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
+title: "Christos Anagnostopoulos"
+excerpt: "Network-Centric Information Systems"
 rank: 3
 author: christos
 research:
- - "Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)"
- - "Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)"
- - "Ασύρματα Δίκτυα Αισθητήρων (Wireless Sensor Networks)"
- - "Δικτυοκεντρικά Πληροφοριακά Συστήματα (Network-centric Information Systems)"
+ - "Mobile and Distributed Computing"
+ - "Context-aware and Pervasive Computing"
+ - "Wireless Sensor Networks"
+ - "Network-centric Information Systems"
 ---
 
-### Education:
-  - "Πτυχίο Τμήματος Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
-  - "Μεταπτυχιακό Δίπλωμα Ειδίκευσης “Προηγμένα Πληροφοριακά Συστήματα”, Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
-  - "Διδακτορικό Δίπλωμα στην Μοντελοποίηση και Αρχιτεκτονική Συστημάτων Κινητού Υπολογισμού, Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
+### Education:  
+  - "B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications"
+  - "M.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2003, Concentrations: Advanced Information Systems, Mobile Computing Thesis: OSA/Parlay compatible Location Mobility Simulator"
+  - "Ph.D., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2008, Concentrations: Mobile and Pervasive Computing, Distributed Computing, Context-aware Computing Dissertation: Modelling and Architecture of Mobile Computing Systems."

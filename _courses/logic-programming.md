@@ -1,20 +1,20 @@
 ---
 ref: logic-programming
-title: "Λογικός Προγραμματισμός"
+title: "Logic Programming"
 author: mistral
-excerpt: "Διαδικαστικός και δηλωτικός προγραμματισμός. Ο λογικός προγραμματισμός (logic programming) ως προγραμματισμός με βάση την Κατηγορηματική Λογική (predicate logic). Προτασιακή Λογική. Σύνταξη και σημασιολογία. Λογική Συνεπαγωγή. Πίνακες Αληθείας και Αποδεικτικές Μέθοδοι στην Προτασιακή Λογική. Αξιωματικά σχήματα και η έννοια της αποδειξιμότητας. Ορθότητα και πληρότητα. Μέθοδος της Επίλυσης στην Προτασιακή Λογική και στρατηγικές αναζήτησης. Σύνταξη και σημασιολογία της Κατηγορηματικής Λογικής. Μέθοδος Herbrand. Αποδεικτικές μέθοδοι της Κατηγορηματικής Λογικής. Ενοποίηση και Επίλυση στην Κατηγορηματική Λογική. Προτάσεις Horn. Η γλώσσα προγραμματισμού Prolog. Σύνταξη προγραμμάτων. Λίστες, τελεστές και αριθμητική. Έλεγχος οπισθοδρόμησης. Άρνηση στην Prolog. Ενσωματωμένα κατηγορήματα. Χειρισμός δομών δεδομένων. Απλές εφαρμογές της Prolog σε προβλήματα αναζήτησης, συμβολική επεξεργασία και κατανόηση φυσικής γλώσσας."
+excerpt: "Procedural and declarative programming differences. Programming according to predicate logic. Propositional logic. Entailment and proof methods in propositional logic. Axioms and decidability. Resolution methods. Syntax and semantics of predicate logic. Unification and resolution in predicate logic. Horn clauses. The Prolog programming language. Syntax, lists, operators and arithmetic. Backtracking control and negation. Data structure handling. Applications of Prolog in search problems, symbolic processing and natural language understanding."
 uri: "https://e-class.ionio.gr/courses/DCS246/"
 code: ΗΥ160
 semester: 7 
-type: "Επιλογής"
+type: "Elective"
 hours: 4
 extra: 2E
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - ["Μητακίδης Γιώργος, “Από τη λογική στο λογικό προγραμματισμό και την Prolog”, Εκδόσεις ΚΑΡΔΑΜΙΤΣΑ, 1992."](https://service.eudoxus.gr/search/#a/id:24354/0)
-  - ["ΝΟΤΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ, “ΠΡΟΓΡΑΜΜΑΤΙΖΟΝΤΑΣ ΣΤΗ ΛΟΓΙΚΗ – PROLOG Α’ ΕΚΔΟΣΗ”, Εκδοσεις ΑΝΙΚΟΥΛΑ, 2008."](https://service.eudoxus.gr/search/#a/id:5417/0)
+bibliography: 
+  - "Ivan Bratko, Prolog Programming for Artificial Intelligence, 3rd Edition, Addison Wesley, 2000."
   
+
 

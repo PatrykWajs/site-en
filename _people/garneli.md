@@ -1,7 +1,7 @@
 ---
 ref: garneli
-title: "Βαρβάρα Γαρνέλη"
-bio: "Απόφοιτος Διδάκτορας"
+title: "Varvara Garneli"
+bio: "Graduate Doctor"
 rank: 7
 author: garneli
 tel: ""

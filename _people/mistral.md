@@ -1,14 +1,15 @@
 ---
 ref: mistral
-title: "Μιχαήλ Στεφανιδάκης"
-excerpt: "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
+title: "Michalis Stefanidakis"
+excerpt: "Computer Systems Architecture"
 rank: 3
 author: mistral
 research:
- - "Κατανεμημένες αρχιτεκτονικές υπολογιστικών συστημάτων υψηλών επιδόσεων -Ενσωματωμένα συστήματα πραγματικού χρόνου"
- - "Αρχιτεκτονικές συστημάτων αυξημένης υπολογιστικής παρουσίας  (pervasive computing systems)"
+ - "High-Performance Distributed Computer Systems"
+ - "Real-time Embedded System Architectures"
+ - "Pervasive Computing Systems"
 ---
 
 ### Education:
-  - "Δίπλωμα Μηχανικού Ηλεκτρονικών Υπολογιστών και Πληροφορικής, Πανεπιστήμιο Πατρών"
-  - "Διδακτορικό Δίπλωμα με θέμα τη “Σχεδίαση και Μελέτη Απόδοσης  Παράλληλης Αρχιτεκτονικής Κατανεμημένης Μνήμης”, Πανεπιστήμιο  Πατρών"
+  - "Diploma of Computer Engineering and Informatics, University of Patras"
+  - "Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel Computer Architectures, University of Patras"

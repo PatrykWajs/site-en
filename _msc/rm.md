@@ -1,12 +1,12 @@
 ---
 ref: rm
-title: "Ερευνητικές Μέθοδοι"
+title: "Research Methods"
 semester: 1
 author: avlon
-excerpt: "Επιλογή ερευνητικού σχεδίου. Επισκόπηση βιβλιογραφίας και διαμόρφωση ερευνητικών ερωτημάτων. Κατηγοριοποίηση μεθοδολογιών έρευνας. Μεθοδολογίες Ποσοτικής έρευνας:  Συλλογή ποσοτικών δεδομένων – Διαμόρφωση Ερωτηματολογίου – Θεωρία Δειγματοληψίας – Περιγραφή στατιστικών δεδομένων – Στατιστικές εκτιμήσεις – Παλινδρόμηση και Συσχέτιση – Πολύ-μεταβλητές Μέθοδοι Ανάλυσης Δεδομένων – Ελεγχος ερευνητικών υποθέσεων. Χρήση Στατιστικού Λογισμικού SPSS. Προσομοίωση. Μεθοδολογίες Ποιοτικής Ερευνας: Ανάλυση Μελέτης Περίπτωσης – Διεξαγωγή Συνεντεύξεων – Εθνογραφική Μελέτη και Επιτόπια Παρατήρηση. Ερευνα μικτών μεθόδων. Ερευνα στο Διαδίκτυο. Συγγραφή ερευνητικών προτάσεων, άρθρων και διατριβών."
+excerpt: "Research Design. Literature Review and Formulation of Research Questions. Categorisation of Research Methodologies. Quantitative Research Methodologies: Collection of Research Data – Design of Research Questionnaire – Data Sampling – Data Description – Statistical Analysis – Regression and Correlation – Multi-variate Statistical Analysis Techniques. Use of SPSS Software. Simulation as a Research Method. Qualitative Research Methodologies: Case Study Analysis – Interviews – Ethnographies and Observation. Mixed Methods Research. Internet-based Research. Preparation of Research Proposals, Papers and Theses."
 uri: "https://e-class.ionio.gr/courses/DCS277/"
 code: DCS277
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 
 extra:
 ects: 6

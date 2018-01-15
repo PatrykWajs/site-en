@@ -1,18 +1,20 @@
 ---
 ref: computing-education
-title: "Διδακτική της Πληροφορικής"
-semester: 3
+title: "Teaching Informatics"
+semester: 4
 author: vchris
-excerpt: "Σκοπός του μαθήματος είναι ο προβληματισμός και η απόκτηση γνώσεων: 1.για θέματα που αφορούν τις σπουδές στην πληροφορική, 2.για έννοιες που συνδέονται με τις θεωρίες της μάθησης και της διδακτικής της πληροφορικής. Πιο αναλυτικά στο μάθημα περιλαμβάνονται οι παρακάτω ενότητες: Η πληροφορική στην εκπαίδευση: γνωστικό αντικείμενο και εκπαιδευτικό μέσο, Το πρόγραμμα σπουδών πληροφορικής στην ελληνική εκπαίδευση, ο προγραμματισμός ως γνωστικό αντικείμενο, προγραμματιστικά εργαλεία. Μάθηση, διδασκαλία και εκπαιδευτικές τεχνικές, μεθοδολογίες και μέσα διδασκαλίας, σενάρια διδασκαλίας, αξιολόγηση μαθητή"
+excerpt: "General aspects: Informatics in Education. ICT as a means of knowledge, research and learning in various scientific disciplines. Basic concepts and terminology used in the teaching of Informatics.
+Teaching topics: traditional teaching approaches, approaches based on modern learning theories, learning disabilities in basic concepts of Informatics, examples of lesson plans and activities.
+Course structure: teaching models, didactic objectives, expected outcomes, instructional techniques, design of teaching. Assessment: aims and objectives, functions, assessment/evaluation tools, feedback. Teaching problems and teaching interventions in the use of ICT. IT Teaching for students with disabilities and/or special needs. Use of the Internet for covering student’s educational needs and lifelong learning. Distance learning via new technologies. Acquaintance with basic pedagogical theories. Informatics in education. Policies and incorporation of informatics  in the educational systems of Greece and other European countries."
 uri: "https://e-class.ionio.gr/courses/DCS177/"
 code: ΘΕ500
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 4
 extra: "-"
 ects: 4
 ---
 
 
-Βιβλιογραφία: 
-  - [“Εισαγωγή στη διδακτική της πληροφορικής, Βασίλης Ι. Κόμης, Εκδόσεις Κλειδάριθμος"](https://service.eudoxus.gr/search/#a/id:13678/0) 
-  - ["Εισαγωγή στη διδακτική της πληροφορικής, Ν. Αλεξανδρής, Β. Μπελεσιώτης, Ε. Φούντας, Εκδόσεις Βαρβαρήγου Μαρκέλλα.](https://service.eudoxus.gr/search/#a/id:59374178/0)
+Bibliography: 
+  - “Εισαγωγή στη διδακτική της πληροφορικής, Βασίλης Ι. Κόμης, Εκδόσεις Κλειδάριθμος"
+  - "Εισαγωγή στη διδακτική της πληροφορικής, Ν. Αλεξανδρής, Β. Μπελεσιώτης, Ε. Φούντας, Εκδόσεις Βαρβαρήγου Μαρκέλλα."

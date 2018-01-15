@@ -1,18 +1,16 @@
 ---
 ref: bihe
-title: "Εργαστήριο Βιοπληροφορικής και Ανθρώπινης Ηλεκτροφυσιολογίας (BIHELab)"
+title: "Bioinformatics and Human Electrophysiology Lab (BiHELab)"
 header:
   teaser: /assets/images/bihelab.png
   og_image: /assets/images/bihelab.png
-excerpt: "Το εργαστήριο Βιοπληροφορικής και Ανθρώπινης Ηλεκτροφυσιολογίας καλύπτει τις ερευνητικές δραστηριότητες του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου, σχετικά με τις νευρολογικές διαταραχές και τη συσχέτιση τους με τις υποκυτταρικές μετρήσεις βιοενέργειας."
+excerpt: "The Bioinformatics and Human Electrophysiology Lab focus on recent advances in geriatrics and neurodegeneration, ranging from basic science to clinical and pharmaceutical developments. BiHELab’s goal is to help bridge the translational gap from data to models and from models to drug discovery and personalized therapy by fostering collaborations and developing original quantitative approaches to biological and clinical problems."
 uri: "http://bihelab.di.ionio.gr"
 members:
  - vlamos
  - paxinos
 ---
 
- Οι νευροεκφυλιστικές παθήσεις, προσβάλλουν πλέον ένα σημαντικό ποσοστό του πληθυσμού των σύγχρονων δυτικών κοινωνιών. Τα τελευταία χρόνια καταβάλλεται μια συστηματική προσπάθεια αποσαφήνισης των παθογενετικών παραγόντων αυτών των νοσημάτων, τα οποία πιστεύεται ότι, ανεξάρτητα από τη συμπτωματολογία, σε ένα μεγάλο βαθμό ακολουθούν κοινούς μηχανισμούς παθογένεσης.
+BiHELab interests lie within educational, research and development activities in the areas of neurogenerative diseases and their relations with mitochondrial abnormalities and skin cancers, Rna-Protein interaction problem, the mathematical modeling of mitochondrial motility, alternative mathematical representations and optimized algorithms for RNA closed secondary structures and bioethics.
 
-Βασικός στόχος του εργαστηρίου είναι η καταγραφή νέων και αποτελεσματικών πρωτοκόλλων διάγνωσης διαφόρων τύπων άνοιας και συγκεκριμένα νευρολογικών διαταραχών μέσα από τον εντοπισμό, τη χαρτογράφηση, τη βιολογική ανάλυση καθώς και τη μαθηματική μοντελοποίηση και προσομοίωση όλων των παραγόντων που σχετίζονται με τις μιτοχονδριακές δυσλειτουργίες, έτσι ώστε σύντομα να βελτιωθούν οι υφιστάμενες τεχνικές αντιμετώπισης τους αλλά και να δημιουργηθούν στο μέλλον νέες στοχευμένες θεραπείες.
-
-Ο εξοπλισμός του εργαστηρίου, περιλαμβάνει εξειδικευμένα μηχανήματα βιολογικών αναλύσεων, συστήματα για τη συλλογή και ανάλυση δεδομένων απεικόνισης, μικροσκόπια, κάμερες υψηλής ανάλυσης, συσκευές μέτρησης ανθρώπινης ηλεκτροφυσιολογίας, συσκευές μέτρησης πληθυσμού σωματιδίων καθώς και υποστηρικτικά λογισμικά.
+The electrophysiological laboratory houses instruments for intra and extracellular recordings in vivo and in vitro, and equipment for behavioral studies and equipment for both tethered and telemetric field potential recording.

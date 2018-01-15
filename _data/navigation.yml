@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Προσωπικό"
+  - title: "People"
     url: "/people/"
-  - title: "Σπουδές"
+  - title: "Courses"
     url: "/courses/"
-  - title: "Εργαστήρια"
+  - title: "Laboratories"
     url: "/groups/"

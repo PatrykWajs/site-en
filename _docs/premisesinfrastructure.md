@@ -1,17 +1,17 @@
 ---
 ref: premisesinfrastructure
-title: "Κτιριακές Εγκαταστάσεις-Υποδομές"
-excerpt: " 
-### Κτιριακές Εγκαταστάσεις – Υποδομές
+title: "Premises Infrastructure"
+excerpt: "
+### Building 
 
-Το Τμήμα Πληροφορικής στεγάζεται σε τρία ανακαινισμένα κτίρια (Κτίριο Αρεταίος, Κτίριο Γραμματειών (κτίριο 3), Κτίριο Γαληνός) στο παλαιό ψυχιατρείο Κέρκυρας. Εκεί βρίσκονται οι αίθουσες διδασκαλίας για το προπτυχιακό και το μεταπτυχιακό, τα εργαστήρια Η/Υ, η γραμματεία και το γραφείο υποστήριξης συστημάτων του Τμήματος. Τα γραφεία των μελών ΔΕΠ του Τμήματος βρίσκονται σε διαφορετικό χώρο, στο Ανάκτορο των αγίων Γεωργίου και Μιχαήλ.
+The Department of Informatics is located in three renovated buildings (Building Aretaios, Building Secretariat (Building 3), Galini Building) at the old Corfu Psychiatric Hospital. There are the teaching rooms for the Undergraduate and the Postgraduate,computer labs, the secretariat and the office support of the Department. The offices of the faculty members of the Department are located in a different place, at the Palace of Saint George and Michael.
 
-### Αίθουσες Εργαστηρίων
+### Labs
 
-Σκοπός των εργαστηρίων Η/Υ είναι η υποστήριξη του διδακτικού έργου του Τμήματος Πληροφορικής, η διευκόλυνση των φοιτητών για την εκπόνηση εργασιών στο πλαίσιο των μαθημάτων τους, καθώς και η πρόσβαση στο διαδίκτυο για εκπαιδευτικούς αλλά και ψυχαγωγικούς σκοπούς.
+The purpose of the computer laboratories is to support the teaching work of the Department of Informatics, to facilitate the students to work as part of their courses, as well as access to the Internet for educational and recreational purposes.
 
-Από όλες τις αίθουσες του κτηρίου και φυσικά από τα εργαστήρια, υπάρχει πρόσβαση στο τοπικό δίκτυο Ethernet 1 Gbps καθώς και στο διαδίκτυο (Ιnternet). Το κτήριο συνδέεται ασύρματα με τον κεντρικό κόμβο του Ιονίου Πανεπιστημίου.
+From all the rooms in the building, and espacially in the labs, there is access to the local 1 Gbps Ethernet network.The building is wirelessly connected to the central hub of the Ionian University.
 
-Η πρόσβαση των φοιτητών στα εργαστήρια είναι ελεύθερη εκτός από τις ώρες όπου σε αυτά γίνονται μαθήματα. Οι χρήστες μπορούν ελεύθερα να περιηγούνται στο διαδίκτυο, να λαμβάνουν και να στέλνουν e-mail και να αποθηκεύουν τα αρχεία τους στο σκληρό δίσκο ή σε φορητά μέσα αποθήκευσης (floppy, cd-rom, usb stick). Επίσης τα εργαστήρια είναι εξοπλισμένο με δικτυακούς εκτυπωτές στους οποίους οι φοιτητές μπορούν να εκτυπώνουν εργασίες και υλικό σχετικά με το γνωστικό αντικείμενο της Πληροφορικής."
+Student access to the labs is free, except for the hours when they are being taught. Users can freely browse the web, receive and send emails and store their files on the hard disk or on a portable storage device (floppy disk, cd-rom, usb stick). Laboratories are also equipped with printers for academic use. "
 
 ---

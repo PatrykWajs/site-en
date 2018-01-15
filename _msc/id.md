@@ -1,14 +1,13 @@
 ---
 ref: id
-title: "Σχεδίαση της Διάδρασης Ανθρώπου-Υπολογιστή"
-semester: 1
+title: "Interaction Design"
 author: choko
-excerpt: "Ανάγκες χρήστη στο σχεδιασμό των user-interfaces. Ανθρωποκεντρική αποτίμηση και στρατηγικές σχεδιασμού και δοκιμής των user interfaces, τεχνικές αλληλεπίδρασης. Σχεδίαση, προγραμματισμός και πρότυπη διεπαφή. Τεχνικές και μέθοδοι αξιολόγησης των αποτελεσμάτων ως προς την ευχρηστία."
+excerpt: "User needs, human-centered design, and interaction design. Design and development of interactive prototypes. Methods and techniques for user evaluation."
+semester: 1
 uri: ""
 code: 
-type: "Υποχρεωτικό"
+type: "Compulsory"
 hours: 3
 extra:
 ects: 6
 ---
-

@@ -1,46 +1,45 @@
 ---
 ref: courses
-title: "Μαθήματα"
+title: "Courses"
 ---
 
-{% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
+{% include toc title = "COURSES" icon = "graduation-cap" %}
 
-# ΠΡΟΠΤΥΧΙΑΚΟ
+# Undergraduate
 
-## A ΕΞΑΜΗΝΟ
+## 1ˢᵗ SEMESTER
 
-{% include collection-sort.html i = 1 l = 'courses' %}
+  {% include collection-sort.html i = 1 l = 'courses' %}
 
-## Β ΕΞΑΜΗΝΟ
+## 2ⁿᵈ SEMESTER
 
-{% include collection-sort.html i = 2 l = 'courses' %}
+  {% include collection-sort.html i = 2 l = 'courses' %}
 
-## Γ ΕΞΑΜΗΝΟ
+## 3ʳᵈ SEMESTER
 
-{% include collection-sort.html i = 3 l = 'courses' %}
+  {% include collection-sort.html i = 3 l = 'courses' %}
 
-## Δ ΕΞΑΜΗΝΟ
+## 4ᵗʰ SEMESTER
 
-{% include collection-sort.html i = 4 l = 'courses' %}
+  {% include collection-sort.html i = 4 l = 'courses' %}
 
-## Ε ΕΞΑΜΗΝΟ
+## 5ᵗʰ SEMESTER
 
-{% include collection-sort.html i = 5 l = 'courses' %}
+  {% include collection-sort.html i = 5 l = 'courses' %}
 
-## ΣΤ ΕΞΑΜΗΝΟ
+## 6ᵗʰ SEMESTER
 
-{% include collection-sort.html i = 6 l = 'courses' %}
+  {% include collection-sort.html i = 6 l = 'courses' %}
 
-## Ζ ΕΞΑΜΗΝΟ
+## 7ᵗʰ SEMESTER
 
-{% include collection-sort.html i = 7 l = 'courses' %}
+  {% include collection-sort.html i = 7 l = 'courses' %}
 
-# ΜΕΤΑΠΤΥΧΙΑΚΟ
+# Postgraduate
+## 1ˢᵗ SEMESTER
 
-## A ΕΞΑΜΗΝΟ
+  {% include collection-sort.html i = 1 l = 'msc' %}
 
-{% include collection-sort.html i = 1 l = 'msc' %}
+## 2ⁿᵈ SEMESTER
 
-## Β ΕΞΑΜΗΝΟ
-
-{% include collection-sort.html i = 2 l = 'msc' %}
+  {% include collection-sort.html i = 2 l = 'msc' %}

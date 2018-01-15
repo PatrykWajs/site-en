@@ -1,21 +1,20 @@
 ---
 ref: networks1
-title: "Δίκτυα I"
+title: "Networks I"
 author: okon
-excerpt: "Τηλεπικοινωνίες και Δίκτυα. Σήματα (αναλογικά-ψηφιακά), αρχές μετάδοσης δεδομένων, κωδικοποίηση δεδομένων. Μέσα μετάδοσης: Καλώδια συνεστραμμένου ζεύγους, ομοαξονικά καλώδια, οπτικές ίνες. Πρότυπα ενσύρματων δικτύων. Ασύρματα δίκτυα επικοινωνίας με ραδιοκύματα, μικροκύματα, υπέρυθρες. Πρότυπα ασύρματων δικτύων. Αρχιτεκτονικές πρωτοκόλλων: Το πρότυπο OSI, το πρότυπο TCP/IP. Τοπικά δίκτυα. Μητροπολιτικά δίκτυα – Δίκτυα Ευρείας Περιοχής. Διασύνδεση δικτύων και δικτυακές συσκευές. Μεταφορά και Δρομολόγηση πακέτων. Τεχνικές μεταγωγής, Δίκτυα κορμού, αστική και εταιρική πρόσβαση στο Διαδίκτυο. Πρόσβαση PSTN, ISDN. Τεχνολογίες ευρυζωνικής πρόσβασης (DSL, Wi-fi, Wi-USB, Wi-Max), υπηρεσίες τρίτης γενιάς (3G). Διαχείριση Δικτύων."
+excerpt: "Telecommunications and Networks. Signals (analog-digital), data transmission principles, data encoding. Transmission media: twisted pair cables, coaxial cables, optical fibers. Wired networks standards. Wireless communication networks using radio waves, microwaves, infrared. Wireless network standards. Protocol architectures: The OSI standard, the TCP/IP standard. Local Area Networks. Metropolitan Area Networks – Wide Area Networks. Network interconnection and network devices. Packet Transmission and Routing. Switching technics, backbone networks, residential and corporate internet access. PSTN, ISDN access. Broadband access technologies (DSL, Wi-fi, Wi-USB, Wi-Max), third generation services (3G). Network Management."
 code: ΗΥ220
-semester: 4
-type: "Υποχρεωτικό"
-hours: 4
-extra: 2Ε
-ects: 6
 uri: "https://e-class.ionio.gr/courses/DCS174/"
+semester: 4
+type: "Compulsory"
+hours: 4
+extra: 2L
+ects: 6
 ---
 
 
-Βιβλιογραφία: 
-  - ["“Δίκτυα Επικοινωνιών, ένα πρώτο μάθημα”, Jean Walrand, Μετάφραση-Επιμέλεια: Ιωάννης Σταυρακάκης, Λάζαρος Μεράκος, Εκδόσεις ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ – ΕΚΠΑ, ISBN 960-6608-15-8, 2003"](https://service.eudoxus.gr/search/#a/id:22771742/0)
-  - ["ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ”, ANDREW S. TANENBAUM, Εκδόσεις Κλειδάριθμος, ISBN 960-209-689-6, 2003"](https://service.eudoxus.gr/search/#a/id:12534026/0)
-
+bibliography: 
+  - "“Δίκτυα Επικοινωνιών, ένα πρώτο μάθημα”, Jean Walrand, Μετάφραση-Επιμέλεια: Ιωάννης Σταυρακάκης, Λάζαρος Μεράκος, Εκδόσεις ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ – ΕΚΠΑ, ISBN 960-6608-15-8, 2003"
+  - "ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ”, ANDREW S. TANENBAUM, Εκδόσεις Κλειδάριθμος, ISBN 960-209-689-6, 2003"
   
 
