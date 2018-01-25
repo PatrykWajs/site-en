@@ -6,3 +6,5 @@ main:
     url: "/courses/"
   - title: "Laboratories"
     url: "/groups/"
+  - title: "Posts"
+    url: "/posts/"
