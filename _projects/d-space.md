@@ -1,22 +1,28 @@
 ---
 ref: d-space
 title: "Discovery Space(D-Space)"
-excerpt: "Το έργο Discovery Space (D-Space) παρέχει τη δυνατότητα πρόσβασης και από κοινού χρήσης εργαλείων και εκπαιδευτικών πηγών όχι μόνο σε σχολεία αλλά και σε ερευνητικά και επιστημονικά κέντρα."
+excerpt: "The D-Space project’s main objectives are:
+
+ - The demonstration and piloting of the D-Space service to the target users in real environments (e.g. schools, universities, science museums and parks, research centers)
+ - To perform an extended validation study of the D-Space service. The validation work is a) to adapt a tried and tested methodology to validate the D-Space service and b) to implement the validation procedure in situ in a pan-European setting. The contribution of the validation phase to the market validation of the D-Space service is to perform a final usability evaluation, in the context of the scenarios, as far as the final users as concerned. The extended validation of the service concentrating on user acceptance and interoperability, crucial for market deployment, will be a major input for the final business plan.
+ - The development of a detailed business plan, which will provide a technical and commercial overview of the value of the chain of the services. In this framework a clear and sound feasibility study of the business case will be achieved.
+ - The development of the marketing strategy and of the associated short and medium term action plan for the full deployment of the services provided."
 partners:
  - "Ionian University"
 web: "www.discoveryspace.net"
 ---
 
-Το έργο Discovery Space (D-Space) παρέχει τη δυνατότητα πρόσβασης και από κοινού χρήσης εργαλείων και εκπαιδευτικών πηγών όχι μόνο σε σχολεία αλλά και σε ερευνητικά και επιστημονικά κέντρα. Το πρόγραμμα παρέχει τη δυνατότητα σε μαθητές, εκπαιδευτικούς, ερευνητές, ερασιτέχνες αστρονόμους και κάθε άλλο ενδιαφερόμενο από κάθε μέρος του κόσμου να χρησιμοποιήσουν ένα δίκτυο από τηλεχειριζόμενα ρομποτικά τηλεσκόπια σε πραγματικό χρόνο, με στόχο την παρατήρηση του ηλιακού μας συστήματος, αστέρων, γαλαξιών, κομητών και πολλών άλλων αντικειμένων και φαινομένων.
+The D-Space project’s main objectives are:
 
- - Στόχος του έργου είναι η µελέτη σκοπιµότητας – βιωσιµότητας της παροχής υπηρεσίας εκπαίδευσης από απόσταση µε τη χρήση δικτύου ροµποτικών τηλεσκοπίων.
- - Απευθύνεται σε εκπαιδευτικούς, φορείς εκπαίδευσης & έρευνας, ερευνητές και ενδιαφερόµενα άτοµα.
+ - The demonstration and piloting of the D-Space service to the target users in real environments (e.g. schools, universities, science museums and parks, research centers)
+ - To perform an extended validation study of the D-Space service. The validation work is a) to adapt a tried and tested methodology to validate the D-Space service and b) to implement the validation procedure in situ in a pan-European setting. The contribution of the validation phase to the market validation of the D-Space service is to perform a final usability evaluation, in the context of the scenarios, as far as the final users as concerned. The extended validation of the service concentrating on user acceptance and interoperability, crucial for market deployment, will be a major input for the final business plan.
+ - The development of a detailed business plan, which will provide a technical and commercial overview of the value of the chain of the services. In this framework a clear and sound feasibility study of the business case will be achieved.
+ - The development of the marketing strategy and of the associated short and medium term action plan for the full deployment of the services provided.
 
-Οι διαδικασίες υλοποίησης του προγράμματος διακρίνονται στις παρακάτω:
+The D-Space service addresses:
 
- - Πιστοποίηση δυνατότητας λειτουργίας ενός δικτύου διασπαρµένων ροµποτικών τηλεσκοπίων.
- - Εκτεταµένη έρευνα αγοράς για τον καθορισµό της αγοράς στόχου και του µεγέθους της.
- - Πιλοτική δοκιµή σε πραγµατικές συνθήκες
- - Μελέτη σκοπιµότητας για επιχειρηµατική εκµετάλλευση των υπηρεσιών
-
+ - Educational Institutions, e.g. primary and secondary education schools, Universities
+ - Research Institutes (giving unique opportunities to researchers and astronomers across the world)
+ - Scientific museums, Science centers and Science Parks (offering unique experience to the visitors)
+ - The wider public
 
