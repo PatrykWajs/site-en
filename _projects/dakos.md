@@ -1,7 +1,7 @@
 ---
 ref: dakos
 title: "Μοντελοποίηση της Δυναμικής Αυτοοργάνωσης και της Καταστολής του πληθυσμού του δάκου σε πραγματικό Οικο-Σύστημα του Δήμου Αγίου Γεωργίου, Κέρκυρας(Δάκος)"
-excerpt: "Σκοπός του παρόντος έργου είναι η μοντελοποίηση της εξέλιξης του πληθυσμού του δάκου, χρησιμοποιώντας νέες θεωρητικές και υπολογιστικές μεθόδους οι οποίες έχουν εμφανιστεί στη διεθνή βιβλιογραφία μόλις την τελευταία δεκαετία, και ειδικότερα χρησιμοποιώντας νέα δυναμικά μοντέλα αυτοοργάνωσης των πληθυσμών και υπολογιστικά συστήματα με ικανότητα επεξεργασίας συστημάτων με πολλούς βαθμούς ελευθερίας."
+excerpt: "Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form of devalorisation of olive products, and the cost of preventing and fighting the infestation. Quantitative reduction of olive production caused by dakos can reach up until 30%, while the qualitative devalorisation is incalculable."
 partners:
  - "Development Company of Agios Georgios of Corfu (ANEDAG)"
  - "Ionian University"
@@ -9,10 +9,9 @@ partners:
 web: ""
 ---
 
-Το Τμήμα Πληροφορικής συμμετέχει σαν συνεργαζόμενος φορέας μαζί με την Αναππτυξιακή Επιχείρηση Δήμου Αγίου Γεωργίου Κέρκυρας (ΑΝΕΔΑΓ) και το Ινστιτούτο Ελαίας Κέρκυρας στην υλοποίηση του προγράμματος ” Μοντελοποίηση της Δυναμικής Αυτοοργάνωσης και της Καταστολής του πληθυσμού του δάκου σε πραγματικό Οικο-Σύστημα του Δήμου Αγίου Γεωργίου, Κέρκυρας 
+Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form of devalorisation of olive products, and the cost of preventing and fighting the infestation. Quantitative reduction of olive production caused by dakos can reach up until 30%, while the qualitative devalorisation is incalculable.
 
-Ο δάκος είναι ο σοβαρότερος εχθρός της ελαιοπαραγωγής, προκαλώντας κάθε χρόνο πολλές σημαντικές οικονομικές ζημιές, τόσο με την υποβάθμιση των ελαιοκομικών προϊόντων, ελαιόλαδο και βρώσιμες ελιές, όσο και με το κόστος πρόληψης των Δακοπροσβολών με τη συστηματική δακοκτονία κάθε έτος.Η ποσοτική μείωση της ελαιοπαραγωγής λόγω Δάκου, μπορεί να φτάσει έως 30%, ενώ η ποιοτική υποβάθμιση είναι ανυπολόγιστη.
+Aim of present work is modelling the development of dakos population, using new theoretical and calculating methods that have only recently appeared in the international bibliography, and more specifically using new dynamic models of self-organization and calculating systems which are capable of handling systems with a lot of degrees of freedom.
 
-Σκοπός του παρόντος έργου είναι η μοντελοποίηση της εξέλιξης του πληθυσμού του δάκου, χρησιμοποιώντας νέες θεωρητικές και υπολογιστικές μεθόδους οι οποίες έχουν εμφανιστεί στη διεθνή βιβλιογραφία μόλις την τελευταία δεκαετία, και ειδικότερα χρησιμοποιώντας νέα δυναμικά μοντέλα αυτοοργάνωσης των πληθυσμών και υπολογιστικά συστήματα με ικανότητα επεξεργασίας συστημάτων με πολλούς βαθμούς ελευθερίας.
+During the project’s life is expected collaboration between teams from different scientific fields (Entomology, Agronomics, Modelling of Complex Natural Systems, Statistical Treatment, Interactive Computer Systems) in agreement with the modern practice in the international scientific community, where the need for the study of complex dynamic systems is faced interdisciplinary, that is to say with the collaboration of different scientific fields.
 
-Κατά την διάρκεια του έργου αναμένεται να συνεργαστούν ερευνητικές ομάδες από διαφορετικές επιστημονικές περιοχές (Εντομολογία, Γεωπονία, Μοντελοποίηση Σύνθετων Φυσικών Συστημάτων, Στατιστική Επεξεργασία, Διαδραστικά Συστήματα Πληροφορικής) σε συμφωνία με τις σύγχρονες πρακτικές στη διεθνή επιστημονική κοινότητα, όπου η ανάγκη για την μελέτη σύνθετων δυναμικών συστημάτων αντιμετωπίζεται διεπιστημονικά, δηλαδή με την συνεργασία διαφορετικών επιστημονικών πεδίων.
