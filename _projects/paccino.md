@@ -1,15 +1,14 @@
 ---
 ref: pacinno
-title: "Πλατφόρμα για την δια-ακαδημαική συνεργασία στην καινοτομία(PaCiNNo)"
-excerpt: " Ο στόχος του έργου PACiNNO είναι η δημιουργία μιας πλατφόρμας για τη συνεργασία στον τομέα της έρευνας και της καινοτομίας που θα καλύπτει το σύνολο της Αδριατικής."
+title: "Platform for trans-Academic Cooperation in Innovation(PaCiNNo)"
+excerpt: "The goal of PACiNNO is to establish a platform for cooperation in research and innovation covering the whole Adriatic region."
 partners:
   - "Ionian University"
 web: "http://www.pacinno.eu/"
 ---
 
-Ο στόχος του έργου PACiNNO είναι η δημιουργία μιας πλατφόρμας για τη συνεργασία στον τομέα της έρευνας και της καινοτομίας που θα καλύπτει το σύνολο της Αδριατικής. Στοχεύοντας τόσο τα ερευνητικά ιδρύματα, φορείς χάραξης πολιτικής όσο και τις επιχειρηματικές οντότητες, το έργο θα συμβάλει στην ανάπτυξη νέων γεφυρών μεταξύ των δραστηριοτήτων έρευνας και της επιστήμης που πραγματοποιείται σε ακαδημαϊκά ιδρύματα και το οικονομικό σύστημα, με ειδική αναφορά στις τεχνολογικές ανάγκες των Μικρομεσαίων Επιχειρήσεων (ΜΜΕ). Γενικότερα, το PACiNNO αποσκοπεί στην υπερνίκηση των κυριότερων εμποδίων για την οικονομική ανάπτυξη των χωρών της Αδριατικής, την ενίσχυση της ανταγωνιστικότητας των επιχειρήσεων ήσσονος σημασίας τους (τόσο στους τομείς υψηλής τεχνολογίας, όσο και στις παραδοσιακές βιομηχανίες) και την προώθηση της δημιουργίας καινοτόμων νεοφυών επιχειρήσεων.
+The goal of PACiNNO is to establish a platform for cooperation in research and innovation covering the whole Adriatic region. Targeting both research institutions, policy makers and business entities, the project will help develop new bridges between the research and scientific activities, carried out at academic institutions, and the economic system, with specific reference to the technological needs of SMEs. More generally, PACiNNO is aimed at overcoming the main obstacles and barriers to the economic development of the Adriatic countries, fostering the competitiveness of their minor firms (both in the high-tech fields and in the traditional industries), and promoting the creation of innovative start-ups.
 
-Για την επίτευξη αυτών των φιλόδοξων στόχων, το έργο θα αξιοποιήσει τα διάφορα προγράμματα και πρωτοβουλίες που έχουν ήδη εφαρμοστεί στην περιοχή της Αδριατικής από την Ε.Ε., τις εθνικές κυβερνήσεις και τους τοπικούς φορείς. Στο πλαίσιο του PACiNNO έμφαση θα δοθεί στο συνδυασμό των ερευνητικών δραστηριοτήτων με άμεσες παρεμβάσεις στα τοπικά συστήματα καινοτομίας.
+To reach such ambitious goals, the project will capitalize on the several programs and initiatives already implemented in the Adriatic region by the EU, the national governments and the local stakeholders. PACiNNO will combine research activities with direct interventions in the local innovation systems.
 
-Η ενεργός εμπλοκή και συμμετοχή στην πρωτοβουλία του έργου από τους βασικούς φορείς καινοτομίας (ερευνητικά κέντρα, οργανισμοί τοπικής αυτοδιοίκησης, επιστημονικά και τεχνολογικά πάρκα, θερμοκοιτίδες επιχειρήσεων, οικονομικοί επενδυτές, επιχειρηματικές μονάδες, πολυεθνικές εταιρείες που εδρεύουν στην περιοχή), έχει ως στόχο να δημιουργήσει ένα περιφερειακό σύστημα καινοτομίας που θα υποστηρίζεται από μια μόνιμη πλατφόρμα συνεργασίας, όπου ιδιωτικοί και δημόσιοι οργανισμοί μπορούν να αλληλεπιδρούν και να ενσωματώσουν τις προσπάθειες και τους πόρους τους για να ευνοήσουν τα αποτελέσματα της καινοτομίας σε ολόκληρη την περιοχή, ακόμη και μετά το τέλος του έργου PACiNNO.
-
+The active involvement and participation to the project initiative of the key innovation stakeholders (research centres, territorial bodies, science and technology parks, business incubators, financial investors, business units, multinational companies based in the region) is meant to create a regional innovation system supported by a permanent platform of collaboration, where private and public institutions can interact and integrate their efforts and resources to favor innovation outcomes across the region, even after the end of PACiNNO.
