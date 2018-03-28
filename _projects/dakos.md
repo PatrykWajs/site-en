@@ -1,6 +1,6 @@
 ---
 ref: dakos
-title: "Μοντελοποίηση της Δυναμικής Αυτοοργάνωσης και της Καταστολής του πληθυσμού του δάκου σε πραγματικό Οικο-Σύστημα του Δήμου Αγίου Γεωργίου, Κέρκυρας(Δάκος)"
+title: "Modelling of Dynamic Self-Organization and Repression of Population of Dakos in Real Ecosystem of Municipality of Saint George(Dakos)"
 excerpt: "Dakos (Olive Fly) is the most severe enemy of olive production, causing each year important economic damage, in the form of devalorisation of olive products, and the cost of preventing and fighting the infestation. Quantitative reduction of olive production caused by dakos can reach up until 30%, while the qualitative devalorisation is incalculable."
 partners:
  - "Development Company of Agios Georgios of Corfu (ANEDAG)"
