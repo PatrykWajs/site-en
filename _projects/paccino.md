@@ -1,9 +1,9 @@
 ---
 ref: pacinno
 title: "Platform for trans-Academic Cooperation in Innovation(PaCiNNo)"
-excerpt: " The goal of PACiNNO is to establish a platform for cooperation in research and innovation covering the whole Adriatic region."
-grant: ""
+excerpt: "The goal of PACiNNO is to establish a platform for cooperation in research and innovation covering the whole Adriatic region."
 partners:
+  - "Ionian University"
 web: "http://www.pacinno.eu/"
 ---
 
